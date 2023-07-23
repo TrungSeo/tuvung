@@ -1,5 +1,4 @@
 // CODE BỞI TRUVN.COM
-const domain = "trungseo.github.io";
 
 const GET_E_bai = document.querySelector("#Main .context h3");
 const GET_E_sub = document.querySelector("#Main .context h2");
@@ -34,7 +33,7 @@ const APP = {
 
         bottom();
         GET_E_pause.addEventListener("click", () => {
-            getJSON(domain, "list", this.baiStar , this.baiEnd);
+            getJSON(this.baiStar , this.baiEnd);
             GET_E_sub.style = "opacity: 0;";
             GET_E_bai.style = "opacity: 0;";
             update++;
@@ -53,8 +52,8 @@ const APP = {
 };
 APP.start();
 
-async function getJSON(url, part, baiStart, baiEnd) {
-    let link = `http://${url}/${part}.json`;
+async function getJSON(baiStart, baiEnd) {
+    let link = `https://japan.truvn.com/tuvung/list.json`;
 
     let res = await fetch(link);
     let data = await res.json();
