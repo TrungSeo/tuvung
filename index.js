@@ -59,6 +59,7 @@ async function getJSON(baiStart, baiEnd) {
       headers: {
         accept: 'application/json',
       },
+        body: JSON.stringify(data)
     });
     let data = await res.json();
 
