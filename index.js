@@ -52,17 +52,24 @@ const APP = {
 };
 APP.start();
 
-async function getJSON(baiStart, baiEnd) {
+function getJSON(baiStart, baiEnd) {
 
-    let res = await fetch("https://japan.truvn.com/tuvung/list.json/" , {
-      method: 'GET',
-      headers: {
-        accept: 'application/json',
-      },
-        body: JSON.stringify(data)
-    });
-    let data = await res.json();
-
+    // let res = await fetch("https://japan.truvn.com/tuvung/list.json/" , {
+    //   method: 'GET',
+    //   headers: {
+    //     accept: 'application/json',
+    //   },
+    //     body: JSON.stringify(data)
+    // });
+    // let data = await res.json();
+    fetch("https://japan.truvn.com/tuvung/list.json")
+        .then((res) => res.json())
+        .then(data => {
+            console.log(data)
+            return data
+        });
+    console.log(data)
+    
     let rand = Math.floor(Math.random() * (baiEnd + 1 - baiStart)) + baiStart;
 
     let randContex = Math.floor(Math.random() * data[rand - 1].data.length);
