@@ -52,7 +52,7 @@ const APP = {
 };
 APP.start();
 
-function getJSON(baiStart, baiEnd) {
+async function getJSON(baiStart, baiEnd) {
 
     // const res = await fetch("https://japan.truvn.com/tuvung/list.json/" , {
     //      method: "GET",
