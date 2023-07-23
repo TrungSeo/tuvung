@@ -53,7 +53,12 @@ const APP = {
 APP.start();
 
 async function getJSON(baiStart, baiEnd) {
-        const response = await fetch("/list.json");
+        const response = await fetch("/list.json" , {
+        headers:{
+            accept: 'application/json',
+            'User-agent': 'learning app',
+          }
+        });
         const data = await response.json();
 
             
