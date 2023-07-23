@@ -54,9 +54,8 @@ APP.start();
 
 async function getJSON(baiStart, baiEnd) {
         const response = await fetch("/list.json");
-        const res = await response.json();
+        const data = await response.json();
 
-        let const data = JSON.stringify(res)
             
         let rand = Math.floor(Math.random() * (baiEnd + 1 - baiStart)) + baiStart;
             
