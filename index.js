@@ -54,12 +54,12 @@ APP.start();
 
 function getJSON(baiStart, baiEnd) {
 
-    // let res = await fetch("https://japan.truvn.com/tuvung/list.json/");
-    // let data = await res.json();
-    fetch("https://japan.truvn.com/tuvung/list.json/")
-        .then((res) => res.json())
-        .then(data => {
-            console.log(data)
+    let res = await fetch("https://japan.truvn.com/tuvung/list.json/" , {
+         mode: 'no-cors'
+    });
+    let data = await res.json();
+
+                console.log(data)
             
                 let rand = Math.floor(Math.random() * (baiEnd + 1 - baiStart)) + baiStart;
             
@@ -70,8 +70,6 @@ function getJSON(baiStart, baiEnd) {
                 let bai = data[rand - 1].bai;
             
                 APP.view(bai, katarana, sub);
-
-        });
     
 }
 function bottom() {
