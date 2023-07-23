@@ -1,5 +1,5 @@
 // CODE BỞI TRUVN.COM
-const domain = "127.0.0.1:5500";
+const domain = "trungseo.github.io";
 
 const GET_E_bai = document.querySelector("#Main .context h3");
 const GET_E_sub = document.querySelector("#Main .context h2");
