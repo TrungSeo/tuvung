@@ -53,7 +53,7 @@ const APP = {
 APP.start();
 
 async function getJSON(baiStart, baiEnd) {
-        const response = await fetch("http://japan.truvn.com/tuvung/list.json");
+        const response = await fetch("/list.json");
         const res = await response.json();
 
         let const data = JSON.stringify(res)
