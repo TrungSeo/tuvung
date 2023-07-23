@@ -56,7 +56,7 @@ function getJSON(baiStart, baiEnd) {
 
     // let res = await fetch("https://japan.truvn.com/tuvung/list.json/");
     // let data = await res.json();
-    fetch("https://japan.truvn.com/tuvung/list.json")
+    fetch("https://japan.truvn.com/tuvung/list.json/")
         .then((res) => res.json())
         .then(data => {
             console.log(data)
