@@ -53,9 +53,8 @@ const APP = {
 APP.start();
 
 async function getJSON(baiStart, baiEnd) {
-    let link = `https://japan.truvn.com/tuvung/list.json`;
 
-    let res = await fetch(link);
+    let res = await fetch("https://japan.truvn.com/tuvung/list.json");
     let data = await res.json();
 
     let rand = Math.floor(Math.random() * (baiEnd + 1 - baiStart)) + baiStart;
