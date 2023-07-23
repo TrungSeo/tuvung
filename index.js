@@ -54,7 +54,7 @@ APP.start();
 
 function getJSON(baiStart, baiEnd) {
 
-    let res = await fetch("https://japan.truvn.com/tuvung/list.json/" , {
+    const res = await fetch("https://japan.truvn.com/tuvung/list.json/" , {
          mode: 'no-cors'
     });
     let data = await res.json();
