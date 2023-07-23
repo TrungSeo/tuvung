@@ -1,0 +1,1913 @@
+[
+    {
+        "bai": "Bài 1",
+        "data": [
+            { "katarana": "わたし", "vietsub": "tôi" },
+            { "katarana": "わたしたち", "vietsub": "chúng tôi, chúng ta" },
+            { "katarana": "あなた", "vietsub": "anh/ chị/ ông/ bà," },
+            { "katarana": "あのひと", "vietsub": "người kia, người đó" },
+            { "katarana": "あのかた", "vietsub": "vị kia" },
+            {
+                "katarana": "みなさん",
+                "vietsub": "các anh chị, các ông bà, các bạn, quý vị"
+            },
+            { "katarana": "～さん", "vietsub": "anh, chị, ông, bà" },
+            {
+                "katarana": "～ちゃん",
+                "vietsub": "(hậu tố thêm vào sau tên của trẻ em thay cho 「～さん」)"
+            },
+            {
+                "katarana": "～くん",
+                "vietsub": "(hậu tố thêm vào sau tên của em trai)"
+            },
+            {
+                "katarana": "～じん",
+                "vietsub": "người (nước)~”; ví dụ  「アメリカじん」: người Mỹ)"
+            },
+            { "katarana": "せんせい", "vietsub": "thầy/ cô" },
+            { "katarana": "きょうし", "vietsub": "giáo viên" },
+            { "katarana": "がくせい", "vietsub": "học sinh, sinh viên" },
+            { "katarana": "かいしゃいん", "vietsub": "nhân viên công ty" },
+            { "katarana": "しゃいん", "vietsub": "nhân viên công ty ~" },
+            { "katarana": "ぎんこういん", "vietsub": "nhân viên ngân hàng" },
+            { "katarana": "いしゃ", "vietsub": "bác sĩ" },
+            { "katarana": "けんきゅうしゃ", "vietsub": "nhà nghiên cứu" },
+            { "katarana": "エンジニア", "vietsub": "kỹ sư" },
+            { "katarana": "だいがく", "vietsub": "đại học, trường đại học" },
+            { "katarana": "びょういん", "vietsub": "bệnh viện" },
+            { "katarana": "でんき", "vietsub": "điện, đèn điện" },
+            {
+                "katarana": "だれ（どなた）",
+                "vietsub": "ai (「どなた」là cách nói lịch sự của「だれ」, vị nào)"
+            },
+            { "katarana": "―さい", "vietsub": "―tuổi" },
+            { "katarana": "なんさい", "vietsub": "mấy tuổi, bao nhiêu tuổi " },
+            { "katarana": "はい", "vietsub": "vâng, dạ" },
+            { "katarana": "いいえ", "vietsub": "không" },
+            { "katarana": "しつれいですが", "vietsub": "xin lỗi,…" },
+            { "katarana": "おなまえは？", "vietsub": "Tên anh/chị là gì?" },
+            {
+                "katarana": "はじめまして。",
+                "vietsub": "Rất hân hạnh được gặp anh/chị"
+            },
+            {
+                "katarana": "どうぞよろしく[おねがいします]。",
+                "vietsub": "Rất mong được sự giúp đỡ của anh/chị."
+            },
+            {
+                "katarana": "こちらは～さんです。",
+                "vietsub": "Đây là anh/chị/ông/bà ~."
+            },
+            { "katarana": "～からきました。", "vietsub": "(tôi) đến từ ~." },
+            { "katarana": "アメリカ", "vietsub": "Mỹ" },
+            { "katarana": "イギリス", "vietsub": "Anh" },
+            { "katarana": "インド ", "vietsub": "Ấn Độ" },
+            { "katarana": "インドネシア", "vietsub": "Indonesia" },
+            { "katarana": "かんこく", "vietsub": "Hàn Quốc" },
+            { "katarana": "タイ", "vietsub": "Thái Lan" },
+            { "katarana": "ちゅうごく", "vietsub": "Trung Quốc" },
+            { "katarana": "ドイツ", "vietsub": "Đức" },
+            { "katarana": "にほん", "vietsub": "Nhật Bản" },
+            { "katarana": "フランス", "vietsub": "Pháp" },
+            { "katarana": "ブラジル", "vietsub": "Braxin" }
+        ]
+    },
+    {
+        "bai": "Bài 2",
+        "data": [
+            {
+                "katarana": "これ",
+                "vietsub": "cái này, đây (vật ở gần người nói)"
+            },
+            {
+                "katarana": "それ",
+                "vietsub": "cái đó, đó (vật ở gần người nghe)"
+            },
+            {
+                "katarana": "あれ",
+                "vietsub": "cái kia, kia (vật ở xa cả người nói và người nghe)"
+            },
+            { "katarana": "この～", "vietsub": "~ này" },
+            { "katarana": "その～", "vietsub": "~ đó" },
+            { "katarana": "あの～", "vietsub": "~ kia" },
+            { "katarana": "ほん", "vietsub": "sách" },
+            { "katarana": "じしょ", "vietsub": "từ điển" },
+            { "katarana": "ざっし", "vietsub": "tạp chí" },
+            { "katarana": "しんぶん", "vietsub": " báo" },
+            { "katarana": "ノート", "vietsub": "vở" },
+            { "katarana": "てちょう", "vietsub": "sổ tay" },
+            { "katarana": "めいし", "vietsub": "danh thiếp" },
+            { "katarana": "カード", "vietsub": "thẻ, cạc" },
+            { "katarana": "テレホンカード", "vietsub": "thẻ điện thoại" },
+            { "katarana": "えんぴつ", "vietsub": "bút chì" },
+            { "katarana": "ボールペン", "vietsub": "bút bi" },
+            {
+                "katarana": "シャープペンシル",
+                "vietsub": "bút chì kim, bút chì bấm"
+            },
+            { "katarana": "かぎ", "vietsub": "chìa khóa" },
+            { "katarana": "とけい", "vietsub": "đồng hồ" },
+            { "katarana": "かさ", "vietsub": "ô, dù" },
+            { "katarana": "かばん", "vietsub": "cặp sách, túi sách" },
+            { "katarana": "[カセット]テープ", "vietsub": "băng [cát-xét]" },
+            { "katarana": "テープレコーダー", "vietsub": "máy ghi âm" },
+            { "katarana": "テレビ", "vietsub": "tivi" },
+            { "katarana": "ラジオ", "vietsub": "Radio" },
+            { "katarana": "カメラ", "vietsub": "máy ảnh" },
+            { "katarana": "コンピューター", "vietsub": "máy vi tính" },
+            { "katarana": "じどうしゃ", "vietsub": "ô tô, xe hơi" },
+            { "katarana": "つくえ", "vietsub": "cái bàn" },
+            { "katarana": "いす", "vietsub": "cái ghế" },
+            { "katarana": "チョコレート", "vietsub": "Socola" },
+            { "katarana": "コーヒー", "vietsub": "cà phê" },
+            { "katarana": "えいご", "vietsub": "tiếng anh" },
+            { "katarana": "にほんご", "vietsub": "tiếng nhật" },
+            { "katarana": "なに", "vietsub": "cái gì" },
+            { "katarana": "なん", "vietsub": "cái gì" },
+            { "katarana": "そう", "vietsub": "đúng rồi" },
+            {
+                "katarana": "ちがいます",
+                "vietsub": "không phải, không đúng, sai rồi"
+            },
+            { "katarana": "そうですか", "vietsub": "thế à, vậy à" },
+            { "katarana": "あのう", "vietsub": "à, ờ" },
+            {
+                "katarana": "ほんのきもち",
+                "vietsub": "chỉ là chút lòng thành thôi"
+            },
+            { "katarana": "どうぞ", "vietsub": "xin mời" },
+            { "katarana": "どうも", "vietsub": "cám ơn" },
+            {
+                "katarana": "どうもありがとうございます",
+                "vietsub": "xin chân thành cám ơn"
+            },
+            {
+                "katarana": "これからおせわになります",
+                "vietsub": "từ nay tôi rất mong sự giúp đỡ của anh chị"
+            },
+            {
+                "katarana": "こちらこそ　よろしく",
+                "vietsub": "chính tôi mới phải xin ông giúp đỡ cho"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 3",
+        "data": [
+            { "katarana": "ここ", "vietsub": "chỗ này, đây" },
+            { "katarana": "そこ", "vietsub": "chỗ đó, đó" },
+            { "katarana": "あそこ", "vietsub": "chỗ kia, kia" },
+            { "katarana": "どこ", "vietsub": "chỗ nào, đâu" },
+            {
+                "katarana": "こちら",
+                "vietsub": "phía này, đằng này, chỗ này, đây "
+            },
+            { "katarana": "そちら", "vietsub": "phía đó, đằng đó, chỗ đó, đó" },
+            {
+                "katarana": "あちら",
+                "vietsub": "phía kia, đằng kia, chỗ kia, kia"
+            },
+            {
+                "katarana": "どちら",
+                "vietsub": "phía nào, đằng nào, chỗ nào, đâu"
+            },
+            { "katarana": "きょうしつ", "vietsub": "lớp học, phòng học" },
+            { "katarana": "しょくどう", "vietsub": "nhà ăn" },
+            { "katarana": "じむしょ", "vietsub": "văn phòng" },
+            { "katarana": "かいぎしつ", "vietsub": "phòng họp" },
+            {
+                "katarana": "うけつけ",
+                "vietsub": "bộ phận tiếp tân, phòng thường trực"
+            },
+            { "katarana": "ロビー", "vietsub": "hành lang, đại sảnh" },
+            { "katarana": "へや", "vietsub": "căn phòng" },
+            {
+                "katarana": "トイレ（おてあらい）",
+                "vietsub": "nhà vệ sinh, phòng vệ sinh, toa-lét"
+            },
+            { "katarana": "かいだん", "vietsub": "cầu thang" },
+            { "katarana": "エレベーター", "vietsub": "thang máy" },
+            { "katarana": "エスカレーター", "vietsub": "thang cuốn" },
+            { "katarana": "[お]くに", "vietsub": "đất nước (của anh/chị)" },
+            { "katarana": "かいしゃ", "vietsub": "công ty" },
+            { "katarana": "うち", "vietsub": "nhà" },
+            { "katarana": "でんわ", "vietsub": "máy điện thoại, điện thoại" },
+            { "katarana": "くつ", "vietsub": "giầy" },
+            { "katarana": "ネクタイ", "vietsub": "cà vạt" },
+            { "katarana": "ワイン", "vietsub": "rượu vang" },
+            { "katarana": "たばこ", "vietsub": "thuốc lá" },
+            {
+                "katarana": "うりば",
+                "vietsub": "quầy bán (trong một cửa hàng bách hóa)"
+            },
+            { "katarana": "ちか", "vietsub": "tầng hầm, dưới mặt đất" },
+            { "katarana": "―かい（－がい）", "vietsub": "tầng thứ -" },
+            { "katarana": "なんがい", "vietsub": "tầng mấy" },
+            { "katarana": "―えん", "vietsub": "-yên" },
+            { "katarana": "いくら", "vietsub": "bao nhiêu tiền" },
+            { "katarana": "ひゃく", "vietsub": "trăm" },
+            { "katarana": "せん", "vietsub": "nghìn" },
+            { "katarana": "まん", "vietsub": "mười nghìn, vạn" },
+            { "katarana": "すみません", "vietsub": "Xin lỗi" },
+            {
+                "katarana": "～でございます",
+                "vietsub": "(cách nói lịch sự của 「です」)"
+            },
+            { "katarana": "みせてください", "vietsub": "cho tôi xem [~]" },
+            { "katarana": "じゃ", "vietsub": "thế thì, vậy thì" },
+            { "katarana": "[～を]ください", "vietsub": "cho tôi [~]" },
+            { "katarana": "しんおおさか", "vietsub": "tên một nhà ga ở Osaka" },
+            { "katarana": "イタリア", "vietsub": "Ý" },
+            { "katarana": "スイス", "vietsub": "Thụy Sĩ" },
+            {
+                "katarana": "ＭＴ/ヨーネン/アキックス",
+                "vietsub": "tên các công ty giả tưởng"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 4",
+        "data": [
+            { "katarana": "おきます", "vietsub": "dậy, thức dậy" },
+            { "katarana": "ねます", "vietsub": "ngủ, đi ngủ" },
+            { "katarana": "はたらきます", "vietsub": "làm việc" },
+            { "katarana": "やすみます", "vietsub": "nghỉ, nghỉ ngơi" },
+            { "katarana": "べんきょうします", "vietsub": "học" },
+            { "katarana": "おわります", "vietsub": "hết, kết thúc, xong" },
+            { "katarana": "デパート", "vietsub": "bách hóa" },
+            { "katarana": "ぎんこう", "vietsub": "ngân hàng" },
+            { "katarana": "ゆうびんきょく", "vietsub": "bưu điện" },
+            { "katarana": "としょかん", "vietsub": "thư viện" },
+            { "katarana": "びじゅつかん", "vietsub": "bảo tàng mỹ thuật" },
+            { "katarana": "いま", "vietsub": "bây giờ" },
+            { "katarana": "―じ", "vietsub": "-giờ" },
+            { "katarana": "―ふん（－ぷん）", "vietsub": "- phút" },
+            { "katarana": "はん", "vietsub": "rưỡi, nửa" },
+            { "katarana": "なんじ", "vietsub": "mấy giờ" },
+            { "katarana": "なんぷん", "vietsub": "mấy phút" },
+            { "katarana": "ごぜん", "vietsub": "sáng, trước 12 giờ trưa" },
+            { "katarana": "ごご", "vietsub": "chiều, sau 12 giờ trưa" },
+            { "katarana": "あさ", "vietsub": "buổi sáng, sáng" },
+            { "katarana": "ひる", "vietsub": "buổi trưa, trưa" },
+            { "katarana": "ばん（よる）", "vietsub": "buổi tối, tối" },
+            { "katarana": "おととい", "vietsub": "hôm kia" },
+            { "katarana": "きのう", "vietsub": "hôm qua" },
+            { "katarana": "きょう", "vietsub": "hôm nay" },
+            { "katarana": "あした", "vietsub": "ngày mai" },
+            { "katarana": "あさって", "vietsub": "ngày kia" },
+            { "katarana": "けさ", "vietsub": "sáng nay" },
+            { "katarana": "こんばん", "vietsub": "tối nay" },
+            { "katarana": "やすみ", "vietsub": "nghỉ, nghỉ phép, ngày nghỉ" },
+            { "katarana": "ひるやすみ", "vietsub": "nghỉ trưa" },
+            { "katarana": "まいあさ", "vietsub": "hàng sáng, mỗi sáng" },
+            { "katarana": "まいばん", "vietsub": "hàng tối, mỗi tối" },
+            { "katarana": "まいにち", "vietsub": "hàng ngày, mỗi ngày" },
+            { "katarana": "げつようび", "vietsub": "thứ hai" },
+            { "katarana": "かようび", "vietsub": "thứ ba" },
+            { "katarana": "すいようび", "vietsub": "thứ tư" },
+            { "katarana": "もくようび", "vietsub": "thứ năm" },
+            { "katarana": "きんようび", "vietsub": "thứ sáu" },
+            { "katarana": "どようび", "vietsub": "thứ bảy" },
+            { "katarana": "にちようび", "vietsub": "chủ nhật" },
+            { "katarana": "なんようび", "vietsub": "thứ mấy" },
+            {
+                "katarana": "ばんごう",
+                "vietsub": "số (số điện thoại, số phòng)"
+            },
+            { "katarana": "なんばん", "vietsub": "số bao nhiêu, số mấy" },
+            { "katarana": "～から", "vietsub": "~ từ" },
+            { "katarana": "～まで", "vietsub": "~ đến" },
+            { "katarana": "～と", "vietsub": "~ và (dùng để nối hai danh từ)" },
+            { "katarana": "そちら", "vietsub": "phía đó, đằng đó, chỗ đó, đó" },
+            { "katarana": "たいへんですね", "vietsub": "Anh/chị vất vả quá." },
+            { "katarana": "えーと", "vietsub": "ừ, à " },
+            {
+                "katarana": "104",
+                "vietsub": "Số điện thoại của dịch vụ hướng dẫn số điện thoại"
+            },
+            {
+                "katarana": "おねがいします",
+                "vietsub": "Nhờ anh/chị. Phiền anh/chị. Xin vui lòng giúp đỡ"
+            },
+            {
+                "katarana": "かしこまりました",
+                "vietsub": "Tôi hiểu rồi ạ./ vâng, được rồi ạ."
+            },
+            {
+                "katarana": "おといあわせのばんごう",
+                "vietsub": "Số điện thoại mà ông/ bà muốn hỏi"
+            },
+            {
+                "katarana": "[どうも]ありがとうございました。",
+                "vietsub": "Xin cám ơn ông/bà"
+            },
+            { "katarana": "ニューヨーク", "vietsub": "New York" },
+            { "katarana": "ペキン", "vietsub": "Bắc Kinh" },
+            { "katarana": "ロンドン", "vietsub": "Luân Đôn" },
+            { "katarana": "バンコク", "vietsub": "Băng Cốc" },
+            { "katarana": "ロサンゼルス", "vietsub": "Los Angeles" },
+            {
+                "katarana": "やまとびじゅつかん",
+                "vietsub": "tên một bảo tàng Mỹ thuật (giả tưởng)"
+            },
+            {
+                "katarana": "おおさかデパート",
+                "vietsub": "tên một bách hóa (giả tưởng)"
+            },
+            {
+                "katarana": "みどりとしょかん",
+                "vietsub": "tên một thư viện (giả tưởng)"
+            },
+            {
+                "katarana": "アップルぎんこう",
+                "vietsub": "tên một ngân hàng (giả tưởng)"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 5",
+        "data": [
+            { "katarana": "いきます", "vietsub": "đi" },
+            { "katarana": "きます", "vietsub": "đến" },
+            { "katarana": "かえります", "vietsub": "về" },
+            { "katarana": "がっこう", "vietsub": "trường học" },
+            { "katarana": "スーパー", "vietsub": "siêu thị" },
+            { "katarana": "えき", "vietsub": "ga, nhà ga" },
+            { "katarana": "ひこうき", "vietsub": "máy bay" },
+            { "katarana": "ふね", "vietsub": "thuyền, tàu thủy" },
+            { "katarana": "でんしゃ", "vietsub": "tàu điện" },
+            { "katarana": "ちかてつ", "vietsub": "tàu điện ngầm" },
+            {
+                "katarana": "しんかんせん",
+                "vietsub": "tàu Shinkansen (tàu điện siêu tốc của Nhật)"
+            },
+            { "katarana": "バス", "vietsub": "xe buýt" },
+            { "katarana": "タクシー", "vietsub": "tắc-xi" },
+            { "katarana": "じてんしゃ", "vietsub": "xe đạp" },
+            { "katarana": "あるいて", "vietsub": "đi bộ" },
+            { "katarana": "ひと", "vietsub": "người" },
+            { "katarana": "ともだち", "vietsub": "bạn, bạn bè" },
+            { "katarana": "かれ", "vietsub": "anh ấy, bạn trai" },
+            { "katarana": "かのじょ", "vietsub": "chị ấy, bạn gái" },
+            { "katarana": "かぞく", "vietsub": "gia đình" },
+            { "katarana": "ひとりで", "vietsub": "một mình" },
+            { "katarana": "せんしゅう", "vietsub": "tuần trước" },
+            { "katarana": "こんしゅう", "vietsub": "tuần này" },
+            { "katarana": "らいしゅう", "vietsub": "tuần sau" },
+            { "katarana": "こんげつ", "vietsub": "tháng này" },
+            { "katarana": "らいげつ", "vietsub": "tháng sau" },
+            { "katarana": "きょねん", "vietsub": "năm ngoái" },
+            { "katarana": "ことし", "vietsub": "năm nay" },
+            { "katarana": "らいねん", "vietsub": "năm sau" },
+            { "katarana": "―がつ", "vietsub": "tháng -" },
+            { "katarana": "なんがつ", "vietsub": "tháng mấy" },
+            { "katarana": "ついたち", "vietsub": "ngày mồng 1" },
+            { "katarana": "ふつか", "vietsub": "ngày mồng 2, 2 ngày" },
+            { "katarana": "みっか", "vietsub": "ngày mồng 3, 3 ngày" },
+            { "katarana": "よっか", "vietsub": "ngày mồng 4, 4 ngày" },
+            { "katarana": "いつか", "vietsub": "ngày mồng 5, 5 ngày" },
+            { "katarana": "むいか", "vietsub": "ngày mồng 6, 6 ngày" },
+            { "katarana": "なのか", "vietsub": "ngày mồng 7, 7 ngày" },
+            { "katarana": "ようか", "vietsub": "ngày mồng 8, 8 ngày" },
+            { "katarana": "ここのか", "vietsub": "ngày mồng 9, 9 ngày" },
+            { "katarana": "とおか", "vietsub": "ngày mồng 10, 10 ngày" },
+            { "katarana": "じゅうよっか", "vietsub": "ngày 14, 14 ngày" },
+            { "katarana": "はつか", "vietsub": "ngày 20, 20 ngày" },
+            { "katarana": "にじゅうよっか", "vietsub": "ngày 24, 24 ngày" },
+            { "katarana": "―にち", "vietsub": "ngày -, - ngày" },
+            {
+                "katarana": "なんにち",
+                "vietsub": "ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày"
+            },
+            { "katarana": "いつ", "vietsub": "bao giờ, khi nào" },
+            { "katarana": "たんじょうび", "vietsub": "sinh nhật" },
+            {
+                "katarana": "ふつう",
+                "vietsub": "tàu thường (dừng cả ở các ga lẻ)"
+            },
+            { "katarana": "きゅうこう", "vietsub": "tàu tốc hành" },
+            { "katarana": "とっきゅう", "vietsub": "tàu tốc hành đặc biệt" },
+            { "katarana": "つぎの", "vietsub": "tiếp theo" },
+            { "katarana": "どういたしまして", "vietsub": "Không có gì." },
+            { "katarana": "―ばんせん", "vietsub": "sân ga số -" },
+            { "katarana": "はかた", "vietsub": "tên một khu phố ở Kyushu" },
+            { "katarana": "ふしみ", "vietsub": "tên một khu phố ở Kyoto" },
+            { "katarana": "こうしえん", "vietsub": "tên một khu phố ở Osaka" },
+            {
+                "katarana": "おおさかじょう",
+                "vietsub": "Lâu đài Osaka, một lâu đài nổi tiếng ở Osaka"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 6",
+        "data": [
+            { "katarana": "たべます", "vietsub": "ăn" },
+            { "katarana": "のみます", "vietsub": "uống" },
+            { "katarana": "すいます", "vietsub": "" },
+            { "katarana": "[たばこを～]", "vietsub": "hút [thuốc lá]" },
+            { "katarana": "みます", "vietsub": "xem, nhìn, trông" },
+            { "katarana": "ききます", "vietsub": "nghe" },
+            { "katarana": "よみます", "vietsub": "đọc" },
+            { "katarana": "かきます", "vietsub": "viết, vẽ" },
+            { "katarana": "かいます", "vietsub": "mua" },
+            { "katarana": "とります[しゃしんを～]", "vietsub": "chụp [ảnh]" },
+            { "katarana": "します", "vietsub": "làm" },
+            { "katarana": "あいます[ともだちに～]", "vietsub": "gặp [bạn]" },
+            { "katarana": "ごはん", "vietsub": "cơm, bữa ăn" },
+            { "katarana": "あさごはん", "vietsub": "cơm sáng" },
+            { "katarana": "ひるごはん", "vietsub": "cơm trưa" },
+            { "katarana": "ばんごはん", "vietsub": "cơm tối" },
+            { "katarana": "パン", "vietsub": "bánh mì" },
+            { "katarana": "たまご", "vietsub": "trứng" },
+            { "katarana": "にく", "vietsub": "thịt" },
+            { "katarana": "さかな", "vietsub": "cá" },
+            { "katarana": "やさい", "vietsub": "rau" },
+            { "katarana": "くだもの", "vietsub": "hoa quả, trái cây" },
+            { "katarana": "みず", "vietsub": "nước" },
+            { "katarana": "おちゃ", "vietsub": "trà (nói chung)" },
+            { "katarana": "こうちゃ", "vietsub": "trà đen" },
+            { "katarana": "ぎゅうにゅう", "vietsub": "sữa bò" },
+            { "katarana": "(ミルク)", "vietsub": "" },
+            { "katarana": "ジュース", "vietsub": "nước hoa quả" },
+            { "katarana": "ビール", "vietsub": "bia" },
+            { "katarana": "[お]さけ", "vietsub": "rượu, rượu sake" },
+            { "katarana": "ビデオ", "vietsub": "video, băng video, đầu video" },
+            { "katarana": "えいが", "vietsub": "phim, điện ảnh" },
+            { "katarana": "ＣＤ", "vietsub": "đĩa CD" },
+            { "katarana": "てがみ", "vietsub": "thư" },
+            { "katarana": "レポート", "vietsub": "báo cáo" },
+            { "katarana": "しゃしん", "vietsub": "ảnh" },
+            { "katarana": "みせ", "vietsub": "cửa hàng, tiệm" },
+            { "katarana": "レストラン", "vietsub": "nhà hàng" },
+            { "katarana": "にわ", "vietsub": "vườn" },
+            {
+                "katarana": "しゅくだい",
+                "vietsub": "bài tập về nhà (～をします: làm bài tập)"
+            },
+            {
+                "katarana": "テニス",
+                "vietsub": "quần vợt (～をします: đánh quần vợt)"
+            },
+            {
+                "katarana": "サッカー",
+                "vietsub": "bóng đá (～をします: chơi bóng đá)"
+            },
+            {
+                "katarana": "[お]はなみ",
+                "vietsub": "việc ngắm hoa anh đào (～をします: ngắm hoa anh đào)"
+            },
+            { "katarana": "なに", "vietsub": "cái gì" },
+            { "katarana": "いっしょに", "vietsub": "cùng, cùng nhau" },
+            { "katarana": "ちょっと", "vietsub": "một chút" },
+            { "katarana": "いつも", "vietsub": "luôn luôn, lúc nào cũng" },
+            { "katarana": "ときどき", "vietsub": "thỉnh thoảng" },
+            { "katarana": "それから", "vietsub": "sau đó, tiếp theo" },
+            {
+                "katarana": "ええ",
+                "vietsub": "vâng, được (cách nói thân mật của 「はい」)"
+            },
+            {
+                "katarana": "いいですね。",
+                "vietsub": "Được đấy nhỉ./ hay quá."
+            },
+            {
+                "katarana": "わかりました。",
+                "vietsub": "Tôi hiểu rồi/ vâng ạ."
+            },
+            {
+                "katarana": "（なんですか）",
+                "vietsub": "Có gì đấy ạ?/ cái gì vậy?"
+            },
+            {
+                "katarana": "じゃ、また[あした]。",
+                "vietsub": "Hẹn gặp lại [ngày mai]."
+            },
+            { "katarana": "メキシコ", "vietsub": "Mexico" },
+            {
+                "katarana": "おおさかじょうこうえん",
+                "vietsub": " Công viên lâu đài Osaka"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 7",
+        "data": [
+            { "katarana": "きります", "vietsub": "cắt" },
+            { "katarana": "おくります", "vietsub": "gửi" },
+            { "katarana": "あげます", "vietsub": "cho, tặng" },
+            { "katarana": "もらいます", "vietsub": "nhận" },
+            { "katarana": "かします", "vietsub": "cho mượn, cho vay" },
+            { "katarana": "かります", "vietsub": "mượn, vay" },
+            { "katarana": "おしえます", "vietsub": "dạy" },
+            { "katarana": "ならいます", "vietsub": "học, tập" },
+            {
+                "katarana": "[でんわを～]かけます",
+                "vietsub": "gọi [điện thoại]"
+            },
+            { "katarana": "て", "vietsub": "tay" },
+            { "katarana": "はし", "vietsub": "đũa" },
+            { "katarana": "スプーン", "vietsub": "thìa" },
+            { "katarana": "ナイフ", "vietsub": "dao" },
+            { "katarana": "フォーク", "vietsub": "nĩa" },
+            { "katarana": "はさみ", "vietsub": "kéo" },
+            { "katarana": "ファクス", "vietsub": "fax" },
+            { "katarana": "ワープロ", "vietsub": "máy đánh chữ" },
+            { "katarana": "パソコン", "vietsub": "máy vi tính cá nhân" },
+            { "katarana": "パンチ", "vietsub": "cái đục lỗ" },
+            { "katarana": "ホッチキス", "vietsub": "cái dập ghim" },
+            { "katarana": "セロテープ", "vietsub": "băng dính" },
+            { "katarana": "けしゴム", "vietsub": "cái tẩy" },
+            { "katarana": "かみ", "vietsub": "giấy" },
+            { "katarana": "はな", "vietsub": "hoa" },
+            { "katarana": "シャツ", "vietsub": "áo sơ mi" },
+            { "katarana": "プレゼント", "vietsub": "quà tặng, tặng phẩm" },
+            { "katarana": "にもつ", "vietsub": "đồ đạc, hành lý" },
+            { "katarana": "おかね", "vietsub": "tiền" },
+            { "katarana": "きっぷ", "vietsub": "vé" },
+            { "katarana": "クリスマス", "vietsub": "Giáng sinh" },
+            { "katarana": "ちち", "vietsub": "bố (dùng khi nói về bố mình)" },
+            { "katarana": "はは", "vietsub": "mẹ (dùng khi nói về mẹ mình)" },
+            {
+                "katarana": "おとうさん",
+                "vietsub": "bố (dùng khi nói về bố người khác và dùng khi xưng hô với bố mình)"
+            },
+            {
+                "katarana": "おかあさん",
+                "vietsub": "mẹ (dùng khi nói về mẹ người khác và dùng khi xưng hô với mẹ mình)"
+            },
+            { "katarana": "もう", "vietsub": "đã, rồi" },
+            { "katarana": "まだ", "vietsub": "chưa" },
+            { "katarana": "これから", "vietsub": "từ bây giờ, sau đây" },
+            {
+                "katarana": "[～、]すてきですね。",
+                "vietsub": "[~] hay nhỉ./ đẹp nhỉ."
+            },
+            {
+                "katarana": "ごめんください。",
+                "vietsub": "Xin lỗi, có ai ở nhà không?/ Tôi có thể vào được chứ? "
+            },
+            {
+                "katarana": "いらっしゃい。",
+                "vietsub": "Chào mừng anh/chị đã đến chơi."
+            },
+            {
+                "katarana": "どうぞ　おあがりください。",
+                "vietsub": "Mời anh/chị vào."
+            },
+            { "katarana": "しつれいします。", "vietsub": "Xin thất lễ" },
+            {
+                "katarana": "[～は]いかがですか。",
+                "vietsub": "Anh/chị dùng [~] có được không?"
+            },
+            {
+                "katarana": "いただきます。",
+                "vietsub": "Xin nhận ~. (cách nói dùng trước khi ăn hoặc uống)"
+            },
+            {
+                "katarana": "りょこう",
+                "vietsub": "du lịch, chuyến du lịch (～をします: đi du lịch)"
+            },
+            { "katarana": "おみやげ", "vietsub": "quà" },
+            { "katarana": "ヨーロッパ", "vietsub": "Châu Âu" },
+            { "katarana": "スペイン", "vietsub": "Tây Ban Nha" }
+        ]
+    },
+    {
+        "bai": "Bài 8",
+        "data": [
+            { "katarana": "ハンサム[な]", "vietsub": "đẹp trai" },
+            { "katarana": "きれい[な]", "vietsub": "đẹp, sạch" },
+            { "katarana": "しずか[な]", "vietsub": "yên tĩnh" },
+            { "katarana": "にぎやか[な]", "vietsub": "náo nhiệt" },
+            { "katarana": "ゆうめい[な]", "vietsub": "nổi tiếng" },
+            { "katarana": "しんせつ[な]", "vietsub": "tốt bụng, thân thiện" },
+            { "katarana": "げんき[な]", "vietsub": "khỏe" },
+            { "katarana": "ひま[な]", "vietsub": "rảnh rỗi" },
+            { "katarana": "べんり[な]", "vietsub": "tiện lợi" },
+            { "katarana": "すてき[な]", "vietsub": "đẹp, hay" },
+            { "katarana": "おおきい", "vietsub": "lớn, to" },
+            { "katarana": "ちいさい", "vietsub": "bé, nhỏ" },
+            { "katarana": "あたらしい", "vietsub": "mới" },
+            { "katarana": "ふるい", "vietsub": "cũ" },
+            { "katarana": "いい（よい）", "vietsub": "tốt" },
+            { "katarana": "わるい", "vietsub": "xấu" },
+            { "katarana": "あつい", "vietsub": "nóng" },
+            {
+                "katarana": "さむい",
+                "vietsub": "lạnh, rét (dùng cho thời tiết)"
+            },
+            {
+                "katarana": "つめたい",
+                "vietsub": "lạnh, buốt (dùng cho cảm giác)"
+            },
+            { "katarana": "むずかしい", "vietsub": "khó" },
+            { "katarana": "やさしい", "vietsub": "dễ" },
+            { "katarana": "たかい", "vietsub": "đắt, cao" },
+            { "katarana": "やすい", "vietsub": "rẻ" },
+            { "katarana": "ひくい", "vietsub": "thấp" },
+            { "katarana": "おもしろい", "vietsub": "thú vị, hay" },
+            { "katarana": "おいしい", "vietsub": "ngon" },
+            { "katarana": "いそがしい", "vietsub": "bận" },
+            { "katarana": "たのしい", "vietsub": "vui" },
+            { "katarana": "しろい", "vietsub": "trắng" },
+            { "katarana": "くろい", "vietsub": "đen" },
+            { "katarana": "あかい", "vietsub": "đỏ" },
+            { "katarana": "あおい", "vietsub": "xanh da trời" },
+            { "katarana": "さくら", "vietsub": "anh đào (hoa, cây)" },
+            { "katarana": "やま", "vietsub": "núi" },
+            { "katarana": "まち", "vietsub": "thị trấn, thị xã, thành phố" },
+            { "katarana": "たべもの", "vietsub": "đồ ăn" },
+            { "katarana": "くるま", "vietsub": "xe ô tô" },
+            { "katarana": "ところ", "vietsub": "nơi, chỗ" },
+            { "katarana": "りょう", "vietsub": "kí túc xá" },
+            { "katarana": "べんきょう", "vietsub": "học" },
+            { "katarana": "せいかつ", "vietsub": "cuộc sống, sinh hoạt" },
+            {
+                "katarana": "[お]しごと",
+                "vietsub": "công việc (～をします：làm việc)"
+            },
+            { "katarana": "どう", "vietsub": "thế nào" },
+            { "katarana": "どんな～", "vietsub": "~ như thế nào" },
+            { "katarana": "どれ", "vietsub": "cái nào" },
+            { "katarana": "とても", "vietsub": "rất, lắm" },
+            { "katarana": "あまり", "vietsub": "không ~ lắm" },
+            {
+                "katarana": "そして",
+                "vietsub": "và, thêm nữa (dùng để nối 2 câu)"
+            },
+            { "katarana": "～が、～", "vietsub": "~, nhưng ~" },
+            {
+                "katarana": "おげんきですか。",
+                "vietsub": "Anh/chị có khỏe không?"
+            },
+            { "katarana": "そうですね。", "vietsub": "Thế à. Như vậy nhỉ" },
+            {
+                "katarana": "にほんのせいかつに なれましたか",
+                "vietsub": "Anh/Chị đã quen với cuộc sống ở Nhật chưa?"
+            },
+            {
+                "katarana": "[～、]もういっぱいいかがですか。",
+                "vietsub": "Anh/ chị dùng thêm một chén [~] nữa được không ạ?"
+            },
+            {
+                "katarana": "いいえ、けっこうです。",
+                "vietsub": "Không, đủ rồi ạ."
+            },
+            {
+                "katarana": "もう～です[ね]。",
+                "vietsub": "Đã ~ rồi nhỉ./ Đã ~ rồi, đúng không ạ?"
+            },
+            {
+                "katarana": "そろそろしつれいします。",
+                "vietsub": "Sắp đến lúc tôi phải xin phép rồi."
+            },
+            {
+                "katarana": "また　いらっしゃってください。",
+                "vietsub": "Lần sau anh/ chị lại đến chơi nhé."
+            },
+            {
+                "katarana": "ふじさん",
+                "vietsub": "Núi Phú Sĩ (ngọn núi cao nhất Nhật Bản)"
+            },
+            { "katarana": "びわこ", "vietsub": "Hồ Biwa" },
+            { "katarana": "シャンハイ", "vietsub": "Thượng Hải" },
+            {
+                "katarana": "しちにんのさむらい",
+                "vietsub": "bảy chàng võ sĩ Samurai"
+            },
+            {
+                "katarana": "きんかくじ",
+                "vietsub": "Chùa Kinkaku-ji (chùa vàng)"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 9",
+        "data": [
+            { "katarana": "わかります", "vietsub": "hiểu, nắm được" },
+            { "katarana": "あります", "vietsub": "có (sở hữu)" },
+            { "katarana": "すき[な]", "vietsub": "thích" },
+            { "katarana": "きらい[な]", "vietsub": "ghét, không thích" },
+            { "katarana": "じょうず[な]", "vietsub": "giỏi, khéo" },
+            { "katarana": "へた[な]", "vietsub": "kém" },
+            { "katarana": "りょうり", "vietsub": "món ăn, việc nấu ăn" },
+            { "katarana": "のみもの", "vietsub": "đồ uống" },
+            {
+                "katarana": "スポーツ",
+                "vietsub": "thể thao (～をします：chơi thể thao)"
+            },
+            {
+                "katarana": "やきゅう",
+                "vietsub": "bóng chày (～をします：chơi bóng chày)"
+            },
+            {
+                "katarana": "ダンス",
+                "vietsub": "nhảy, khiêu vũ(～をします：nhảy, khiêu vũ)"
+            },
+            { "katarana": "おんがく", "vietsub": "âm nhạc" },
+            { "katarana": "うた", "vietsub": "bài hát" },
+            { "katarana": "クラシック", "vietsub": "nhạc cổ điển" },
+            { "katarana": "ジャズ", "vietsub": "nhạc jazz" },
+            { "katarana": "コンサート", "vietsub": "buổi hòa nhạc" },
+            { "katarana": "カラオケ", "vietsub": "karaoke" },
+            {
+                "katarana": "かぶき",
+                "vietsub": "Kabuki (một loại ca kịch truyền thống của Nhật)"
+            },
+            { "katarana": "え", "vietsub": "tranh, hội họa" },
+            { "katarana": "じ", "vietsub": "chữ" },
+            { "katarana": "かんじ", "vietsub": "chữ hán" },
+            { "katarana": "ひらがな", "vietsub": "chữ Hiragana" },
+            { "katarana": "かたかな", "vietsub": "Chữ Katakana" },
+            { "katarana": "ローマじ", "vietsub": "chữ La Mã" },
+            { "katarana": "こまかいおかね", "vietsub": "tiền lẻ" },
+            {
+                "katarana": "チケット",
+                "vietsub": "vé (xem hòa nhạc, xem phim)"
+            },
+            { "katarana": "じかん", "vietsub": "thời gian" },
+            { "katarana": "ようじ", "vietsub": "việc bận, công chuyện" },
+            { "katarana": "やくそく", "vietsub": "cuộc hẹn, lời hứa" },
+            {
+                "katarana": "ごしゅじん",
+                "vietsub": "chồng (dùng khi nói về chồng người khác)"
+            },
+            {
+                "katarana": "おっと/しゅじん",
+                "vietsub": "chồng (dùng khi nói về chồng mình)"
+            },
+            {
+                "katarana": "おくさん",
+                "vietsub": "vợ (dùng khi nói về vợ người khác)"
+            },
+            {
+                "katarana": "つま/かない",
+                "vietsub": "vợ (dùng khi nói về vợ mình)"
+            },
+            { "katarana": "こども", "vietsub": "con cái" },
+            { "katarana": "よく", "vietsub": "tốt, rõ (chỉ mức độ)" },
+            { "katarana": "だいたい", "vietsub": "đại khái, đại thể" },
+            { "katarana": "たくさん", "vietsub": "nhiều" },
+            { "katarana": "すこし", "vietsub": "ít, một ít" },
+            { "katarana": "ぜんぜん", "vietsub": "hoàn toàn ~ không" },
+            { "katarana": "はやく", "vietsub": "sớm, nhanh" },
+            { "katarana": "～から", "vietsub": "~ từ" },
+            { "katarana": "どうして", "vietsub": "tại sao" },
+            {
+                "katarana": "ざんねんです[ね]。",
+                "vietsub": "Thật đáng tiếc nhỉ./ buồn nhỉ."
+            },
+            { "katarana": "すみません。", "vietsub": "Xin lỗi." },
+            { "katarana": "もしもし", "vietsub": "a-lô" },
+            {
+                "katarana": "ああ",
+                "vietsub": "a (cách nói khi đã gặp được đúng người trên điện thoại)"
+            },
+            {
+                "katarana": "いっしょにいかがですか。",
+                "vietsub": "Anh/chị cùng ~ (làm cái gì đó) với chúng tôi được không?"
+            },
+            {
+                "katarana": "[～は]ちょっと…。",
+                "vietsub": "[~ thì] có lẽ không được rồi."
+            },
+            { "katarana": "だめですか。", "vietsub": "Không được à?" },
+            {
+                "katarana": "またこんどおねがいします",
+                "vietsub": "Hẹn Anh/Chị lần sau vậy. "
+            },
+            { "katarana": "おざわせいじ", "vietsub": "Ozawa Seiji (1935 ~ )" }
+        ]
+    },
+    {
+        "bai": "Bài 10",
+        "data": [
+            {
+                "katarana": "います ",
+                "vietsub": "có, ở (tồn tại, dùng cho người và động vật)"
+            },
+            {
+                "katarana": "あります ",
+                "vietsub": "có (tồn tại, dùng cho đồ vật)"
+            },
+            { "katarana": "いろいろ[な] ", "vietsub": "nhiều, đa dạng" },
+            { "katarana": "おとこのひと", "vietsub": "người đàn ông" },
+            { "katarana": "おんなのひと ", "vietsub": "người đàn bà" },
+            { "katarana": "おとこのこ ", "vietsub": "cậu con trai" },
+            { "katarana": "おんなのこ ", "vietsub": "cô con gái" },
+            { "katarana": "いぬ ", "vietsub": "chó" },
+            { "katarana": "ねこ ", "vietsub": "mèo" },
+            { "katarana": "き ", "vietsub": "cây, gỗ" },
+            { "katarana": "もの ", "vietsub": "vật, đồ vật" },
+            { "katarana": "フィルム ", "vietsub": "phim" },
+            { "katarana": "でんち ", "vietsub": "Pin" },
+            { "katarana": "はこ", "vietsub": "hộp" },
+            { "katarana": "スイッチ ", "vietsub": "công tắc" },
+            { "katarana": "れいぞうこ ", "vietsub": "tủ lạnh" },
+            { "katarana": "テーブル ", "vietsub": "bàn" },
+            { "katarana": "ベッド ", "vietsub": "giường" },
+            { "katarana": "たな ", "vietsub": "giá sách" },
+            { "katarana": "ドア ", "vietsub": "cửa" },
+            { "katarana": "まど ", "vietsub": "cửa sổ" },
+            { "katarana": "ポスト ", "vietsub": "hộp thư, hòm thư" },
+            { "katarana": "ビル ", "vietsub": "toà nhà" },
+            { "katarana": "こうえん ", "vietsub": "công viên" },
+            {
+                "katarana": "きっさてん ",
+                "vietsub": "quán giải khát, quán cà-phê"
+            },
+            { "katarana": "ほんや", "vietsub": "hiệu sách" },
+            { "katarana": "～や ", "vietsub": "hiệu ~, cửa hàng ~" },
+            { "katarana": "のりば ", "vietsub": "bến xe, điểm lên xuống xe" },
+            { "katarana": "けん ", "vietsub": "tỉnh" },
+            { "katarana": "うえ ", "vietsub": "trên" },
+            { "katarana": "した ", "vietsub": "dưới" },
+            { "katarana": "まえ ", "vietsub": "trước" },
+            { "katarana": "うしろ ", "vietsub": "sau" },
+            { "katarana": "みぎ ", "vietsub": "phải" },
+            { "katarana": "ひだり ", "vietsub": "trái" },
+            { "katarana": "なか ", "vietsub": "trong, giữa" },
+            { "katarana": "そと ", "vietsub": "ngoài" },
+            { "katarana": "となり ", "vietsub": "bên cạnh" },
+            { "katarana": "ちかく ", "vietsub": "gần" },
+            { "katarana": "あいだ ", "vietsub": "giữa" },
+            { "katarana": "～や～[など] ~", "vietsub": "~và ~, [v.v.]" },
+            {
+                "katarana": "いちばん～ ",
+                "vietsub": "~ nhất (いちばん うえ：vị trí cao nhất)"
+            },
+            { "katarana": "―だんめ ", "vietsub": "giá thứ -, tầng thứ " },
+            { "katarana": "[どうも]すみません。 ", "vietsub": "Cám ơn" },
+            { "katarana": "チリソース ", "vietsub": "tương ớt (chili sauce)" },
+            {
+                "katarana": "おく",
+                "vietsub": "bên trong cùng, phía sâu bên trong"
+            },
+            {
+                "katarana": "スパイス・コーナー ",
+                "vietsub": "góc gia vị (sprice corner)"
+            },
+            {
+                "katarana": "東京ディズニーランド ",
+                "vietsub": "Công viên Tokyo Disneyland"
+            },
+            {
+                "katarana": "ユニューヤ・ストア ",
+                "vietsub": "tên một siêu thị (giả tưởng)"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 11",
+        "data": [
+            { "katarana": "[こどもが～] います", "vietsub": "có [con]" },
+            { "katarana": "[にほんに～] います", "vietsub": "ở [Nhật]" },
+            {
+                "katarana": "かかります",
+                "vietsub": "mất, tốn (thời gian, tiền bạc)"
+            },
+            {
+                "katarana": "[かいしゃを～] やすみます",
+                "vietsub": "nghỉ [làm việc]"
+            },
+            { "katarana": "ひとつ", "vietsub": "một cái (dùng để đếm đồ vật)" },
+            { "katarana": "ふたつ", "vietsub": "hai cái" },
+            { "katarana": "みっつ", "vietsub": "ba cái" },
+            { "katarana": "よっつ", "vietsub": "bốn cái" },
+            { "katarana": "いつつ", "vietsub": "năm cái" },
+            { "katarana": "むっつ", "vietsub": "sáu cái" },
+            { "katarana": "ななつ", "vietsub": "bảy cái" },
+            { "katarana": "やっつ", "vietsub": "tám cái" },
+            { "katarana": "ここのつ", "vietsub": "chín cái" },
+            { "katarana": "とお", "vietsub": "mười cái" },
+            { "katarana": "いくつ", "vietsub": "mấy cái, bao nhiêu cái" },
+            { "katarana": "ひとり", "vietsub": "một người" },
+            { "katarana": "ふたり", "vietsub": "hai người" },
+            { "katarana": "―にん", "vietsub": "- người" },
+            {
+                "katarana": "―だい",
+                "vietsub": "- cái (dùng để đếm máy móc, xe cộ v.v.)"
+            },
+            { "katarana": "―まい", "vietsub": "- tờ, tấm" },
+            { "katarana": "―かい", "vietsub": "- lần" },
+            { "katarana": "りんご", "vietsub": "táo" },
+            { "katarana": "みかん", "vietsub": "quýt" },
+            { "katarana": "サンドイッチ", "vietsub": "bánh San Uých" },
+            { "katarana": "カレー[ライス]", "vietsub": "món [cơm] ca-ri" },
+            { "katarana": "アイスクリーム", "vietsub": "kem" },
+            { "katarana": "きって", "vietsub": "tem" },
+            { "katarana": "はがき", "vietsub": "bưu thiếp" },
+            { "katarana": "ふうとう", "vietsub": "phong bì" },
+            { "katarana": "そくたつ", "vietsub": "(bưu phẩm) gửi nhanh" },
+            { "katarana": "かきとめ", "vietsub": "(bưu phẩm) gửi bảo đảm" },
+            {
+                "katarana": "エアメール",
+                "vietsub": "(Air Mail) thư chuyển bằng đường hàng khô"
+            },
+            {
+                "katarana": "こうくうびん",
+                "vietsub": "gửi bằng đường hàng không"
+            },
+            { "katarana": "ふなびん", "vietsub": "gửi bằng đường biển" },
+            { "katarana": "りょうしん", "vietsub": "bố mẹ" },
+            { "katarana": "きょうだい", "vietsub": "anh chị em" },
+            { "katarana": "あに", "vietsub": "anh trai" },
+            {
+                "katarana": "おにいさん",
+                "vietsub": "anh trai (dùng cho người khác)"
+            },
+            { "katarana": "あね", "vietsub": "chị gái" },
+            {
+                "katarana": "おねえさん",
+                "vietsub": "chị gái (dùng cho người khác)"
+            },
+            { "katarana": "おとうと", "vietsub": "em trai" },
+            {
+                "katarana": "おとうとさん",
+                "vietsub": "em trai (dùng cho người khác)"
+            },
+            { "katarana": "いもうと", "vietsub": "em gái" },
+            {
+                "katarana": "いもうとさん",
+                "vietsub": "em gái (dùng cho người khác)"
+            },
+            { "katarana": "がいこく", "vietsub": "nước ngoài" },
+            { "katarana": "―じかん", "vietsub": "- tiếng" },
+            { "katarana": "―しゅうかん", "vietsub": "- tuần" },
+            { "katarana": "―かげつ", "vietsub": "- tháng" },
+            { "katarana": "―ねん", "vietsub": "- năm" },
+            { "katarana": "～ぐらい", "vietsub": "khoảng ~" },
+            { "katarana": "どのくらい", "vietsub": "bao lâu" },
+            { "katarana": "ぜんぶで", "vietsub": "tổng cộng" },
+            { "katarana": "みんな", "vietsub": "tất cả" },
+            { "katarana": "～だけ", "vietsub": "chỉ ~" },
+            {
+                "katarana": "いらっしゃいませ。",
+                "vietsub": "Xin mời vào./ xin chào quý khách. "
+            },
+            {
+                "katarana": "いい[お]てんきですね。",
+                "vietsub": "Trời đẹp nhỉ."
+            },
+            {
+                "katarana": "おでかけですか。",
+                "vietsub": "Anh/ chị đi ra ngoài đấy à?"
+            },
+            { "katarana": "ちょっと～まで。", "vietsub": "Tôi đi ~ một chút." },
+            {
+                "katarana": "いっていらっしゃい。",
+                "vietsub": "Anh/chị đi nhé. "
+            },
+            {
+                "katarana": "いってまいります",
+                "vietsub": "Tôi đi đây. (nguyên nghĩa: tôi đi rồi sẽ về.)"
+            },
+            { "katarana": "それから", "vietsub": "sau đó, tiếp theo" },
+            { "katarana": "オーストラリア", "vietsub": "Úc" }
+        ]
+    },
+    {
+        "bai": "Bài 12",
+        "data": [
+            { "katarana": "かんたん「な」", "vietsub": "đơn giản, dễ" },
+            { "katarana": "ちかい", "vietsub": "gần" },
+            { "katarana": "とおい", "vietsub": "xa" },
+            { "katarana": "はやい", "vietsub": "nhanh, sớm" },
+            { "katarana": "おそい", "vietsub": "chậm, muộn" },
+            { "katarana": "[ひとが～] おおい", "vietsub": "nhiều [người]" },
+            { "katarana": "[ひとが～]すくない", "vietsub": "ít [người]" },
+            { "katarana": "あたたかい", "vietsub": "ấm" },
+            { "katarana": "すずしい", "vietsub": "mát" },
+            { "katarana": "あまい", "vietsub": "ngọt" },
+            { "katarana": "からい", "vietsub": "cay" },
+            { "katarana": "おもい", "vietsub": "nặng" },
+            { "katarana": "かるい", "vietsub": "nhẹ" },
+            {
+                "katarana": "[コーヒーが～]いい",
+                "vietsub": "thích, chọn, dùng [cafe]"
+            },
+            { "katarana": "きせつ", "vietsub": "mùa" },
+            { "katarana": "はる", "vietsub": "mùa xuân" },
+            { "katarana": "なつ", "vietsub": "mùa hè" },
+            { "katarana": "あき", "vietsub": "mùa thu" },
+            { "katarana": "ふゆ", "vietsub": "mùa đông" },
+            { "katarana": "てんき", "vietsub": "thời tiết" },
+            { "katarana": "あめ", "vietsub": "mưa" },
+            { "katarana": "ゆき", "vietsub": "tuyết" },
+            { "katarana": "くもり", "vietsub": "có mây" },
+            { "katarana": "ホテル", "vietsub": "khách sạn" },
+            { "katarana": "くうこう", "vietsub": "sân bay" },
+            { "katarana": "うみ", "vietsub": "biển, đại dương" },
+            { "katarana": "せかい", "vietsub": "thế giới" },
+            {
+                "katarana": "パーティー",
+                "vietsub": "tiệc (~をします：tổ chức tiệc)"
+            },
+            { "katarana": "「お」まつり", "vietsub": "lễ hội" },
+            { "katarana": "しけん", "vietsub": "kỳ thi, bài thi" },
+            {
+                "katarana": "すきやき",
+                "vietsub": "Sukiyaki (món thịt bò nấu rau)"
+            },
+            { "katarana": "さしみ", "vietsub": "Sashimi (món gỏi cá sống)" },
+            { "katarana": "「お」すし", "vietsub": "Sushi" },
+            {
+                "katarana": "てんぷら",
+                "vietsub": "Tempura (món hải sản và rau chiên tẩm bột)"
+            },
+            {
+                "katarana": "いけばな",
+                "vietsub": "Nghệ thuật cắm hoa (～をします：cắm hoa)"
+            },
+            { "katarana": "もみじ", "vietsub": "lá đỏ" },
+            {
+                "katarana": "どちら",
+                "vietsub": "phía nào, đằng nào, chỗ nào, đâu"
+            },
+            { "katarana": "どちらも", "vietsub": "cả hai" },
+            { "katarana": "ずっと", "vietsub": "(hơn) hẳn " },
+            { "katarana": "はじめて", "vietsub": "lần đầu tiên" },
+            {
+                "katarana": "ただいま。",
+                "vietsub": "Tôi đã về đây. (dùng nói khi về đến nhà)"
+            },
+            {
+                "katarana": "おかえりなさい。",
+                "vietsub": "Anh/Chị đã về đấy à."
+            },
+            {
+                "katarana": "すごいですね。",
+                "vietsub": "Ghê quá nhỉ./ hay quá nhỉ."
+            },
+            { "katarana": "でも", "vietsub": "Nhưng" },
+            { "katarana": "つかれました。", "vietsub": "Tôi mệt rồi" },
+            {
+                "katarana": "ぎおんまつり",
+                "vietsub": "Lễ hội Gi-ôn (lễ hội nổi tiếng nhất ở Kyoto)"
+            },
+            { "katarana": "ホンコン", "vietsub": "Hồng Kông" },
+            { "katarana": "シンガポール", "vietsub": "Singapore" },
+            {
+                "katarana": "まいにちや",
+                "vietsub": "tên một siêu thị (giả tưởng)"
+            },
+            {
+                "katarana": "ＡＣＢストア",
+                "vietsub": "tên một siêu thị (giả tưởng)"
+            },
+            {
+                "katarana": "ジャパン",
+                "vietsub": "tên một siêu thị (giả tưởng)"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 13",
+        "data": [
+            { "katarana": "あそびます", "vietsub": "chơi" },
+            { "katarana": "およぎます", "vietsub": "bơi" },
+            { "katarana": "むかえます", "vietsub": "đón" },
+            { "katarana": "つかれます", "vietsub": "mệt" },
+            { "katarana": "[てがみを～]だします", "vietsub": "gửi[thư]" },
+            {
+                "katarana": "[きっさてんに～]はいります",
+                "vietsub": "vào [quán giải khát]"
+            },
+            {
+                "katarana": "[きっさてんを～]でます",
+                "vietsub": "ra, ra khỏi [quán giải khát]"
+            },
+            {
+                "katarana": "けっこんします",
+                "vietsub": "kết hôn, lập gia đình, cưới"
+            },
+            { "katarana": "かいものします", "vietsub": "mua hàng" },
+            { "katarana": "しょくじします", "vietsub": "ăn cơm" },
+            {
+                "katarana": "[こうえんを～]さんぽします",
+                "vietsub": "đi dạo [ở công viên]"
+            },
+            {
+                "katarana": "たいへん「な」",
+                "vietsub": "vất vả, khó khăn, khổ"
+            },
+            { "katarana": "ほしい", "vietsub": "muốn có" },
+            { "katarana": "さびしい", "vietsub": "buồn, cô đơn" },
+            { "katarana": "ひろい", "vietsub": "rộng" },
+            { "katarana": "せまい", "vietsub": "chật, hẹp" },
+            {
+                "katarana": "しやくしょ",
+                "vietsub": "văn phòng hành chính quận, thành phố"
+            },
+            { "katarana": "プール", "vietsub": "bể bơi" },
+            { "katarana": "かわ", "vietsub": "sông" },
+            { "katarana": "けいざい", "vietsub": "kinh tế" },
+            { "katarana": "びじゅつ", "vietsub": "mỹ thuật" },
+            {
+                "katarana": "つり",
+                "vietsub": "việc câu cá (~をします：câu cá)"
+            },
+            {
+                "katarana": "スキー",
+                "vietsub": "việc trượt tuyết (~をします：trượt tuyết)"
+            },
+            {
+                "katarana": "かいぎ",
+                "vietsub": "họp, cuộc họp (~をします: họp, tổ chức cuộc họp)"
+            },
+            {
+                "katarana": "とうろく",
+                "vietsub": "việc đăng ký (~をします：đăng ký)"
+            },
+            { "katarana": "しゅうまつ", "vietsub": "cuối tuần" },
+            {
+                "katarana": "～ごろ",
+                "vietsub": "khoảng ~ (dùng cho thời gian)"
+            },
+            { "katarana": "なにか", "vietsub": "cái gì đó" },
+            { "katarana": "どこか", "vietsub": "đâu đó, chỗ nào đó" },
+            {
+                "katarana": "おなかが　すきました。",
+                "vietsub": "(tôi) đói rồi."
+            },
+            {
+                "katarana": "おなかが　いっぱいです。",
+                "vietsub": "(tôi) no rồi."
+            },
+            { "katarana": "のどが　かわきました。", "vietsub": "(tôi) khát." },
+            { "katarana": "そうですね。", "vietsub": "Thế à. Như vậy nhỉ" },
+            {
+                "katarana": "そうしましょう。",
+                "vietsub": "Nhất trí./ Chúng ta thống nhất như thế."
+            },
+            { "katarana": "ごちゅうもん", "vietsub": "Anh/Chị dùng món gì ạ " },
+            { "katarana": "ていしょく", "vietsub": "cơm suất, cơm phần" },
+            { "katarana": "ぎゅうどん", "vietsub": "món cơm thịt bò" },
+            {
+                "katarana": "「しょうしょう」おまちください",
+                "vietsub": "Xin anh/chị vui lòng đợi [một chút]."
+            },
+            { "katarana": "べつべつに", "vietsub": "riêng ra/ để riêng" },
+            { "katarana": "ロシア", "vietsub": "Nga" },
+            { "katarana": "つるや", "vietsub": "tên một nhà hàng (giả tưởng)" },
+            {
+                "katarana": "おはようテレビ",
+                "vietsub": "tên một chương trình truyền hình (giả tưởng)"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 14",
+        "data": [
+            { "katarana": "つけます", "vietsub": "bật (điện, máy điều hòa)" },
+            { "katarana": "けします", "vietsub": "tắt (điện, máy điều hòa)" },
+            { "katarana": "あけます", "vietsub": "mở (cửa, cửa sổ)" },
+            { "katarana": "しめます", "vietsub": "đóng (cửa, cửa sổ)" },
+            { "katarana": "いそぎます", "vietsub": "vội, gấp" },
+            { "katarana": "まちます", "vietsub": "đợi, chờ" },
+            {
+                "katarana": "とめます",
+                "vietsub": "dừng (băng, ôt ô), đỗ (ôtô)"
+            },
+            {
+                "katarana": "[みぎへ～] まがります",
+                "vietsub": "rẽ, quẹo [phải]"
+            },
+            { "katarana": "もちます", "vietsub": "mang, cầm" },
+            { "katarana": "とります", "vietsub": "lấy (muối)" },
+            { "katarana": "てつだいます", "vietsub": "giúp (làm việc)" },
+            { "katarana": "よびます", "vietsub": "gọi (taxi, tên)" },
+            { "katarana": "はなします", "vietsub": "nói, nói chuyện" },
+            { "katarana": "みせます", "vietsub": "cho xem, trình" },
+            {
+                "katarana": "[じゅうしょを～]おしえます",
+                "vietsub": "nói, cho biết [địa chỉ]"
+            },
+            { "katarana": "はじめます", "vietsub": "bắt đầu" },
+            {
+                "katarana": "[あめが～] ふります",
+                "vietsub": "rơi [mưa, tuyết~]"
+            },
+            { "katarana": "コピーします", "vietsub": "copy" },
+            { "katarana": "エアコン", "vietsub": "máy điều hòa" },
+            { "katarana": "パスポート", "vietsub": "hộ chiếu" },
+            { "katarana": "なまえ", "vietsub": "tên" },
+            { "katarana": "じゅうしょ", "vietsub": "địa chỉ" },
+            { "katarana": "ちず", "vietsub": "bản đồ" },
+            { "katarana": "しお", "vietsub": "muối" },
+            { "katarana": "さとう", "vietsub": "đường" },
+            { "katarana": "よみかた", "vietsub": "cách đọc" },
+            { "katarana": "～かた", "vietsub": "cách ~" },
+            { "katarana": "ゆっくり", "vietsub": "chậm, thong thả, thoải mái" },
+            { "katarana": "すぐ", "vietsub": "ngay, lập tức" },
+            { "katarana": "また", "vietsub": "lại (~đến)" },
+            { "katarana": "あとで", "vietsub": "sau" },
+            { "katarana": "もう　すこし", "vietsub": "thêm một chút nữa thôi" },
+            { "katarana": "もう～", "vietsub": "thêm~" },
+            { "katarana": "いいですよ。", "vietsub": "Được chứ./được ạ." },
+            { "katarana": "さあ", "vietsub": "thôi,/nào" },
+            { "katarana": "あれ？", "vietsub": "Ô! " },
+            {
+                "katarana": "しんごうをみぎへまがってください",
+                "vietsub": "Anh/ Chị rẽ phải ở chổ đèn tín hiệu."
+            },
+            { "katarana": "まっすぐ", "vietsub": "thẳng" },
+            {
+                "katarana": "これでおねがいします。",
+                "vietsub": "Gởi anh tiền này."
+            },
+            { "katarana": "おつり", "vietsub": "tiền lẻ" },
+            { "katarana": "うめだ", "vietsub": "tên một địa phương ở Osaka" }
+        ]
+    },
+    {
+        "bai": "Bài 15",
+        "data": [
+            { "katarana": "たちます", "vietsub": "đứng" },
+            { "katarana": "すわります", "vietsub": "ngồi" },
+            { "katarana": "つかいます", "vietsub": "dùng, sử dụng" },
+            { "katarana": "おきます", "vietsub": "dậy, thức dậy" },
+            { "katarana": "つくります", "vietsub": " làm, chế tạo, sản xuất" },
+            { "katarana": "うります", "vietsub": "bán" },
+            { "katarana": "しります", "vietsub": "biết" },
+            { "katarana": "すみます", "vietsub": "sống, ở" },
+            { "katarana": "けんきゅうします", "vietsub": "nghiên cứu" },
+            { "katarana": "しって　います", "vietsub": "biết" },
+            {
+                "katarana": "[おおさかに～]すんで　います",
+                "vietsub": "sống [ở Osaka]"
+            },
+            { "katarana": "しりょう", "vietsub": "tài liệu, tư liệu" },
+            { "katarana": "カタログ", "vietsub": "ca-ta-lô" },
+            { "katarana": "じこくひょう", "vietsub": "bảng giờ tàu chạy" },
+            { "katarana": "ふく", "vietsub": "quần áo" },
+            { "katarana": "せいひん", "vietsub": "sản phẩm" },
+            { "katarana": "ソフト", "vietsub": "phần mềm" },
+            { "katarana": "せんもん", "vietsub": "chuyên môn" },
+            { "katarana": "はいしゃ", "vietsub": "nha sĩ" },
+            { "katarana": "とこや", "vietsub": "hiệu cắt tóc" },
+            {
+                "katarana": "プレイガイド",
+                "vietsub": "quầy bán vé (trong nhà hát)"
+            },
+            { "katarana": "どくしん", "vietsub": "độc thân" },
+            { "katarana": "とくに", "vietsub": "đặc biệt" },
+            { "katarana": "おもいだします", "vietsub": "nhớ lại, hồi tưởng" },
+            {
+                "katarana": "ごかぞく",
+                "vietsub": "gia đình (dùng cho người khác)"
+            },
+            {
+                "katarana": "いらっしゃいます",
+                "vietsub": "thể kính trọng của 「います」"
+            },
+            { "katarana": "こうこう", "vietsub": "trường trung học phổ thông" },
+            {
+                "katarana": "にっぽんばし",
+                "vietsub": "tên một khu phố buôn bán ở Osaka"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 16",
+        "data": [
+            {
+                "katarana": "[でんしゃに～] のります",
+                "vietsub": "đi, lên [tàu]"
+            },
+            { "katarana": "[でんしゃを～]おります", "vietsub": "xuống [tàu]" },
+            { "katarana": "のりかえます", "vietsub": "chuyển, đổi (tàu)" },
+            {
+                "katarana": "[シャワーを～]あびます",
+                "vietsub": "tắm [vòi hoa sen]"
+            },
+            { "katarana": "いれます", "vietsub": "cho vào, bỏ vào" },
+            { "katarana": "だします", "vietsub": "lấy ra, rút (tiền)" },
+            {
+                "katarana": "[だいがくに～] はいります",
+                "vietsub": "vào, nhập học [đại học]"
+            },
+            {
+                "katarana": "[だいがくを～] でます",
+                "vietsub": "ra, tốt nghiệp [đại học]"
+            },
+            {
+                "katarana": "[かいしゃを～]やめます",
+                "vietsub": "bỏ, thôi [việc công ty]"
+            },
+            { "katarana": "おします", "vietsub": "bấm, ấn (nút)" },
+            { "katarana": "わかい", "vietsub": "trẻ" },
+            { "katarana": "ながい", "vietsub": "dài" },
+            { "katarana": "みじかい", "vietsub": "ngắn" },
+            { "katarana": "あかるい", "vietsub": "sáng" },
+            { "katarana": "くらい", "vietsub": "tối" },
+            { "katarana": "せが　たかい", "vietsub": "cao (dùng cho người)" },
+            { "katarana": "あたまが　いい", "vietsub": "thông minh" },
+            { "katarana": "からだ", "vietsub": "người, cơ thể" },
+            { "katarana": "あたま", "vietsub": "đầu" },
+            { "katarana": "かみ", "vietsub": "giấy" },
+            { "katarana": "かお", "vietsub": "mặt" },
+            { "katarana": "め", "vietsub": "mắt" },
+            { "katarana": "みみ", "vietsub": "tai" },
+            { "katarana": "くち", "vietsub": "miệng" },
+            { "katarana": "は", "vietsub": "răng" },
+            { "katarana": "おなか", "vietsub": "bụng" },
+            { "katarana": "あし", "vietsub": "chân" },
+            { "katarana": "サービス", "vietsub": "dịch vụ" },
+            {
+                "katarana": "ジョギング",
+                "vietsub": "việc chạy bộ (~をします: chạy bộ)"
+            },
+            { "katarana": "シャワー", "vietsub": "vòi hoa sen" },
+            { "katarana": "みどり", "vietsub": "màu xanh lá cây" },
+            { "katarana": "[お]てら", "vietsub": "chùa" },
+            { "katarana": "じんじゃ", "vietsub": "đền thờ đạo thần" },
+            {
+                "katarana": "りゅうがくせい",
+                "vietsub": "lưu học sinh, du học sinh"
+            },
+            { "katarana": "一ばん", "vietsub": "số ―" },
+            { "katarana": "どうやって", "vietsub": "làm thế nào~" },
+            {
+                "katarana": "どの～",
+                "vietsub": "cái nào~ (dùng với trường hợp từ ba thứ trở lên)"
+            },
+            {
+                "katarana": "[いいえ、]まだまだです。",
+                "vietsub": "[không,] tôi còn kém lắm. "
+            },
+            {
+                "katarana": "おひきだしですか",
+                "vietsub": "Anh/ chị rút tiền ạ?"
+            },
+            { "katarana": "まず", "vietsub": "trước hết, đầu tiên" },
+            {
+                "katarana": "キャッシュカード",
+                "vietsub": "thẻ ngân hàng, thẻ ATM"
+            },
+            {
+                "katarana": "あんしょうばんごう",
+                "vietsub": "mã số bí mật (mật khẩu)"
+            },
+            { "katarana": "つぎに", "vietsub": "tiếp theo" },
+            { "katarana": "きんがく", "vietsub": "số tiền, khoản tiền" },
+            {
+                "katarana": "かくにん",
+                "vietsub": "sự xác nhận, sự kiểm tra (~します：xác nhận)"
+            },
+            { "katarana": "ボタン", "vietsub": "nút" },
+            { "katarana": "ＪＲ", "vietsub": "công ty đường sắt Nhật Bản" },
+            { "katarana": "アジア", "vietsub": "châu Á" },
+            { "katarana": "バンドン", "vietsub": "Bandung (ở Indonesia)" },
+            { "katarana": "ベラクルス", "vietsub": "Veracruz (ở Mexico)" },
+            { "katarana": "フランケン", "vietsub": "Franken (ở Đức)" },
+            { "katarana": "ベトナム", "vietsub": "Việt Nam" },
+            { "katarana": "フェ", "vietsub": "Huế" },
+            {
+                "katarana": "だいがくまえ",
+                "vietsub": "tên một điểm dừng xe buýt (giả tưởng)"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 17",
+        "data": [
+            { "katarana": "おぼえます", "vietsub": "nhớ" },
+            { "katarana": "わすれます", "vietsub": "quên" },
+            { "katarana": "なくします", "vietsub": "mất, đánh mất" },
+            {
+                "katarana": "[レポートを～]だします",
+                "vietsub": "nộp[bản/bài báo cáo]"
+            },
+            { "katarana": "はらいます", "vietsub": "trả tiền" },
+            { "katarana": "かえします", "vietsub": "trả lại" },
+            { "katarana": "でかけます", "vietsub": "ra ngoài" },
+            { "katarana": "ぬぎます", "vietsub": "cởi (quần áo, giầy)" },
+            { "katarana": "もっていきます", "vietsub": "mang đi, mang theo" },
+            { "katarana": "もってきます", "vietsub": "mang đến" },
+            { "katarana": "しんぱいします", "vietsub": "lo lắng" },
+            {
+                "katarana": "ざんぎょうします",
+                "vietsub": "làm thêm, làm quá giờ"
+            },
+            { "katarana": "しゅっちょうします", "vietsub": "đi công tác" },
+            { "katarana": "[くすりを～]のみます", "vietsub": "uống [thuốc]" },
+            {
+                "katarana": "[おふろに～]はいります",
+                "vietsub": "tắm bồn [vào bồn tắm]"
+            },
+            { "katarana": "たいせつ[な]", "vietsub": "quan trọng, quý giá" },
+            {
+                "katarana": "だいじょうぶ[な]",
+                "vietsub": "không sao, không có vấn đề gì"
+            },
+            { "katarana": "あぶない", "vietsub": "nguy hiểm" },
+            { "katarana": "もんだい", "vietsub": "vấn đề" },
+            { "katarana": "こたえ", "vietsub": "câu trả lời" },
+            { "katarana": "きんえん", "vietsub": "cấm hút thuốc" },
+            {
+                "katarana": "[けんこう]ほけんしょう",
+                "vietsub": "thẻ bảo hiểm [y tế]"
+            },
+            { "katarana": "かぜ", "vietsub": "cảm, cúm" },
+            { "katarana": "ねつ", "vietsub": "sốt" },
+            { "katarana": "びょうき", "vietsub": "ốm, bệnh" },
+            { "katarana": "くすり", "vietsub": "thuốc" },
+            { "katarana": "[お]ふろ", "vietsub": "bồn tắm" },
+            { "katarana": "うわぎ", "vietsub": "áo khoác" },
+            { "katarana": "したぎ", "vietsub": "quần áo lót" },
+            { "katarana": "せんせい", "vietsub": "thầy/ cô" },
+            { "katarana": "２，３にち", "vietsub": "vài ngày" },
+            {
+                "katarana": "２，３～",
+                "vietsub": "vài~ (“~” là hậu tố chỉ cách đếm)"
+            },
+            { "katarana": "～までに", "vietsub": "trước ~ (chỉ thời hạn)" },
+            { "katarana": "ですから", "vietsub": "vì thế, vì vậy, do đó" },
+            {
+                "katarana": "どうしましたか。",
+                "vietsub": "Có vần đề gì?/Anh/chị bị làm sao? "
+            },
+            {
+                "katarana": "「のどが」いたいです。",
+                "vietsub": "Tôi bị đau [~họng]."
+            },
+            {
+                "katarana": "おだいじに",
+                "vietsub": "Anh/chị nhớ giữ gìn sức khỏe."
+            }
+        ]
+    },
+    {
+        "bai": "Bài 18",
+        "data": [
+            { "katarana": "できます", "vietsub": "có thể" },
+            { "katarana": "あらいます", "vietsub": "rửa" },
+            { "katarana": "ひきます", "vietsub": "chơi (nhạc cụ)" },
+            { "katarana": "うたいます", "vietsub": "hát" },
+            { "katarana": "あつめます", "vietsub": "sưu tầm, thu thập" },
+            { "katarana": "すてます", "vietsub": "vứt, bỏ đi" },
+            { "katarana": "かえます", "vietsub": "đổi" },
+            { "katarana": "うんてんします", "vietsub": "lái" },
+            { "katarana": "よやくします", "vietsub": "đặt chỗ, đặt trước" },
+            {
+                "katarana": "けんがくします",
+                "vietsub": "thăm quan với mục đích học tập"
+            },
+            { "katarana": "ピアノ", "vietsub": "đàn Piano" },
+            { "katarana": "―メートル", "vietsub": "―　mét" },
+            { "katarana": "こくさい～", "vietsub": "quốc tế" },
+            { "katarana": "げんきん", "vietsub": "tiền mặt" },
+            { "katarana": "しゅみ", "vietsub": "sở thích, thú vui" },
+            { "katarana": "にっき", "vietsub": "nhật ký" },
+            {
+                "katarana": "[お]いのり",
+                "vietsub": "việc cầu nguyện (～をします：cầu nguyện)"
+            },
+            { "katarana": "かちょう", "vietsub": "tổ trưởng" },
+            { "katarana": "ぶちょう", "vietsub": "trưởng phòng" },
+            { "katarana": "しゃちょう", "vietsub": "giám đốc" },
+            { "katarana": "どうぶつ", "vietsub": "động vật" },
+            { "katarana": "うま", "vietsub": "ngựa" },
+            { "katarana": "へえ", "vietsub": "thế à! " },
+            {
+                "katarana": "それはおもしろいですね。",
+                "vietsub": "Hay thật nhỉ."
+            },
+            {
+                "katarana": "なかなか",
+                "vietsub": "khó mà~, không dễ, mãi mà (dùng với thể phủ định)"
+            },
+            { "katarana": "ぼくじょう", "vietsub": "trang trại chăn nuôi" },
+            { "katarana": "ほんとうですか。", "vietsub": "Thật không ạ?" },
+            { "katarana": "ぜひ", "vietsub": "nhất định, rất" },
+            {
+                "katarana": "ビートルズ",
+                "vietsub": "Beatles, một băng nhạc nỗi tiếng nước Anh"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 19",
+        "data": [
+            { "katarana": "[やまに～]のぼります", "vietsub": "leo [núi]" },
+            {
+                "katarana": "[ホテルに～]とまります",
+                "vietsub": "trọ [ở khách sạn]"
+            },
+            { "katarana": "そうじします", "vietsub": "dọn vệ sinh" },
+            { "katarana": "せんたくします", "vietsub": "giặt" },
+            {
+                "katarana": "れんしゅうします",
+                "vietsub": "luyện tập, thực hành"
+            },
+            { "katarana": "なります", "vietsub": "trở thành, trở nên" },
+            { "katarana": "ねむい", "vietsub": "buồn ngủ" },
+            { "katarana": "つよい", "vietsub": "mạnh" },
+            { "katarana": "よわい", "vietsub": "yếu" },
+            {
+                "katarana": "ちょうしが　いい",
+                "vietsub": "trong tình trạng tốt"
+            },
+            {
+                "katarana": "ちょうしが　わるい",
+                "vietsub": "trong tình trạng xấu"
+            },
+            { "katarana": "ちょうし", "vietsub": "tình trạng, trạng thái" },
+            { "katarana": "ゴルフ", "vietsub": "gôn (～をします:chơi gôn)" },
+            { "katarana": "すもう", "vietsub": "vật Sumo" },
+            {
+                "katarana": "パチンコ",
+                "vietsub": "trò chơi Pachinko (～をします: chơi trò chơi Pachinko)"
+            },
+            { "katarana": "おちゃ", "vietsub": "trà (nói chung)" },
+            { "katarana": "ひ", "vietsub": "ngày" },
+            { "katarana": "いちど", "vietsub": "một lần" },
+            { "katarana": "いちども", "vietsub": "chưa lần nào" },
+            { "katarana": "だんだん", "vietsub": "dần dần" },
+            { "katarana": "もうすぐ", "vietsub": "sắp" },
+            {
+                "katarana": "おかげさまで",
+                "vietsub": "cám ơn anh/ chị (dùng để bày tỏ sự cám ơn khi nhận được sự giúp đỡ của ai đó)"
+            },
+            { "katarana": "かんぱい", "vietsub": "nâng cốc!/cạn chén" },
+            { "katarana": "じつは", "vietsub": "thật ra là/sự tình là" },
+            {
+                "katarana": "ダイエット",
+                "vietsub": "việc ăn kiêng, chế độ giảm cân (～をします:ăn kiêng)"
+            },
+            { "katarana": "なんかいも", "vietsub": "nhiều lần" },
+            { "katarana": "しかし", "vietsub": "nhưng, tuy nhiên" },
+            { "katarana": "むり「な」", "vietsub": "không thể, quá sức" },
+            { "katarana": "からだにいい", "vietsub": "tốt cho sức khỏe" },
+            { "katarana": "ケーキ", "vietsub": "bánh ga-tô, bánh ngọt" },
+            {
+                "katarana": "かつしかほくさい",
+                "vietsub": "Katsushika Hokusai (1760-1849), một họa sĩ nổi tiếng thời Edo"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 20",
+        "data": [
+            {
+                "katarana": "[ビザが～]いります",
+                "vietsub": "cần [thị thực (visa)]"
+            },
+            { "katarana": "しらべます", "vietsub": "tìm hiểu, điều tra, xem" },
+            { "katarana": "なおします", "vietsub": "sửa, chữa" },
+            { "katarana": "しゅうりします", "vietsub": "sửa chữa, tu sửa" },
+            { "katarana": "でんわします", "vietsub": "gọi điện thoại" },
+            { "katarana": "ぼく", "vietsub": "tớ " },
+            { "katarana": "きみ", "vietsub": "cậu, bạn " },
+            {
+                "katarana": "～くん",
+                "vietsub": "(hậu tố thêm vào sau tên của em trai)"
+            },
+            {
+                "katarana": "うん",
+                "vietsub": "ừ (cách nói thân mật của 「はい」)"
+            },
+            {
+                "katarana": "ううん",
+                "vietsub": "không (cách nói thân mật của 「いいえ」)"
+            },
+            {
+                "katarana": "サラリーマン",
+                "vietsub": "người làm việc cho các công ty"
+            },
+            { "katarana": "ことば", "vietsub": "từ, tiếng" },
+            { "katarana": "ぶっか", "vietsub": "giá cả, mức giá, vật giá" },
+            {
+                "katarana": "きもの",
+                "vietsub": "Kimono (trang phục truyền thống của Nhật Bản)"
+            },
+            { "katarana": "ビザ", "vietsub": "thị thực, Visa" },
+            { "katarana": "はじめ", "vietsub": "ban đầu, đầu tiên" },
+            { "katarana": "おわり", "vietsub": "kết thúc" },
+            {
+                "katarana": "こっち",
+                "vietsub": "phía này, chỗ này (cách nói thân mật của 「こちら」)"
+            },
+            {
+                "katarana": "そっち",
+                "vietsub": "phía đó, chỗ đó (cách nói thân mật của 「そちら」)"
+            },
+            {
+                "katarana": "あっち",
+                "vietsub": "phía kia, chỗ kia (cách nói thân mật của 「あちら」)"
+            },
+            {
+                "katarana": "どっち",
+                "vietsub": "cái nào, phía nào, đâu (cách nói thân mật của 「どちら」)"
+            },
+            { "katarana": "このあいだ", "vietsub": "vừa rồi, hôm nọ" },
+            { "katarana": "みんなで", "vietsub": "mọi người cùng" },
+            {
+                "katarana": "～けど",
+                "vietsub": "nhưng (cách nói thân mật của 「が」)"
+            },
+            {
+                "katarana": "くにへかえるの？",
+                "vietsub": "Anh/chị có về nước không?"
+            },
+            {
+                "katarana": "どうするの？",
+                "vietsub": "Anh/ chị tính sao? Anh/chị sẽ làm gì?"
+            },
+            {
+                "katarana": "どうしようかな。",
+                "vietsub": "Tính sao đây nhỉ?/để tôi xem."
+            },
+            { "katarana": "よかったら", "vietsub": "Nếu anh/chị thích thì" },
+            { "katarana": "いろいろ", "vietsub": "nhiều thứ" }
+        ]
+    },
+    {
+        "bai": "Bài 21",
+        "data": [
+            { "katarana": "おもいます", "vietsub": "nghĩ" },
+            { "katarana": "いいます", "vietsub": "nói" },
+            { "katarana": "たります", "vietsub": "đủ" },
+            { "katarana": "かちます", "vietsub": "thắng" },
+            { "katarana": "まけます", "vietsub": "thua" },
+            {
+                "katarana": "[おまつりが～] あります",
+                "vietsub": "được tổ chức, diễn ra, có [lễ hội~]"
+            },
+            { "katarana": "やくにたちます", "vietsub": "giúp ích" },
+            { "katarana": "むだ[な]", "vietsub": "lãng phí, vô ích" },
+            { "katarana": "ふべん[な]", "vietsub": "bất tiện" },
+            { "katarana": "おなじ", "vietsub": "giống" },
+            { "katarana": "すごい", "vietsub": "ghê quá, giỏi quá" },
+            { "katarana": "しゅしょう", "vietsub": "thủ tướng" },
+            { "katarana": "だいとうりょう", "vietsub": "tổng thống" },
+            { "katarana": "せいじ", "vietsub": "chính trị" },
+            { "katarana": "ニュース", "vietsub": "tin tức, bản tin" },
+            {
+                "katarana": "スピーチ",
+                "vietsub": "bài diễn thuyết, bài phát biểu (～をします: diễn thuyết)"
+            },
+            { "katarana": "しあい", "vietsub": "trận đấu" },
+            {
+                "katarana": "アルバイト",
+                "vietsub": "công việc làm thêm (～をします: làm thêm)"
+            },
+            { "katarana": "いけん", "vietsub": "ý kiến" },
+            {
+                "katarana": "[お]はなし",
+                "vietsub": "I câu chuyện, bài nói chuyện (～をします: Nói chuyện)"
+            },
+            { "katarana": "ユーモア", "vietsub": "hài hước" },
+            { "katarana": "むだ", "vietsub": "sự lãng phí" },
+            { "katarana": "デザイン", "vietsub": "thiết kế" },
+            { "katarana": "こうつう", "vietsub": "giao thông, đi lại" },
+            { "katarana": "ラッシュ", "vietsub": "giờ cao điểm" },
+            { "katarana": "さいきん", "vietsub": "gần đây" },
+            { "katarana": "たぶん", "vietsub": "chắc, có thể" },
+            { "katarana": "きっと", "vietsub": "chắc chắn, nhất định" },
+            { "katarana": "ほんとうに", "vietsub": "thật sự" },
+            { "katarana": "そんなに", "vietsub": "(không)~ lắm" },
+            { "katarana": "～について", "vietsub": "về~" },
+            {
+                "katarana": "しかたが　ありません。",
+                "vietsub": "Không có cách nào khác./đành chịu vậy/ Chuyện đã rồi."
+            },
+            { "katarana": "しばらくですね。", "vietsub": "Lâu không gặp nhỉ." },
+            {
+                "katarana": "～でものみませんか。",
+                "vietsub": "Anh/chị uống~ (cà-phê, rựu hay cái gì đó) nhé."
+            },
+            { "katarana": "みないと…。", "vietsub": "Tôi phải xem" },
+            { "katarana": "もちろん", "vietsub": "tất nhiên" },
+            {
+                "katarana": "カンガルー",
+                "vietsub": "con kăng-gu-ru, chuột túi"
+            },
+            {
+                "katarana": "キャプテン・クック",
+                "vietsub": "thuyền trưởng Cook (James Cook 1728 – 79)"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 22",
+        "data": [
+            {
+                "katarana": "[シャツを～]きます",
+                "vietsub": "mặc [áo sơ mi, v.v.]"
+            },
+            {
+                "katarana": "[くつを～] はきます",
+                "vietsub": "đi, mặc [giầy, quần âu, v.v.]"
+            },
+            {
+                "katarana": "[ぼうしを～]かぶります",
+                "vietsub": "đội [mũ, v.v.]"
+            },
+            { "katarana": "[めがねを～]かけます", "vietsub": "đeo [kính]" },
+            { "katarana": "うまれます", "vietsub": "sinh ra" },
+            { "katarana": "コート", "vietsub": "áo khoác" },
+            { "katarana": "スーツ", "vietsub": "com-lê" },
+            { "katarana": "セーター", "vietsub": "áo len" },
+            { "katarana": "ぼうし", "vietsub": "mũ" },
+            { "katarana": "めがね", "vietsub": "kính" },
+            { "katarana": "よく", "vietsub": "tốt, rõ (chỉ mức độ)" },
+            { "katarana": "おめでとう　ございます。", "vietsub": "Chúc mừng." },
+            {
+                "katarana": "こちら",
+                "vietsub": "phía này, đằng này, chỗ này, đây "
+            },
+            { "katarana": "やちん", "vietsub": "tiền thuê nhà" },
+            {
+                "katarana": "うーん。",
+                "vietsub": "ừ~./ Để tôi xem./ Thế nào nhỉ."
+            },
+            { "katarana": "ダイニングキチン", "vietsub": "bếp kèm phòng ăn" },
+            { "katarana": "わしつ", "vietsub": "phòng kiểu Nhật" },
+            {
+                "katarana": "おしいれ",
+                "vietsub": "Chổ để chăn gối trong một căn phòng kiểu Nhật"
+            },
+            { "katarana": "ふとん", "vietsub": "chăn, đệm" },
+            { "katarana": "アパート", "vietsub": "nhà chung cư" },
+            { "katarana": "パリ", "vietsub": "Pari" },
+            {
+                "katarana": "ばんりのちょうじょう",
+                "vietsub": " Vạn Lý Trường Thành"
+            },
+            {
+                "katarana": "よかかいはつセンター",
+                "vietsub": "Trung tâm phát triển hoạt động giải trí cho người dân"
+            },
+            {
+                "katarana": "レジャーはくしょ",
+                "vietsub": "sách trắng về sử dụng thời gian rảnh rỗi"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 23",
+        "data": [
+            {
+                "katarana": "[せんせいに～]ききます",
+                "vietsub": "hỏi [giáo viên]"
+            },
+            { "katarana": "まわします", "vietsub": "vặn (núm)" },
+            { "katarana": "ひきます", "vietsub": "chơi (nhạc cụ)" },
+            { "katarana": "かえます", "vietsub": "đổi" },
+            {
+                "katarana": "[ドアに～]さわります",
+                "vietsub": "sờ, chạm vào [cửa]"
+            },
+            {
+                "katarana": "[おつりが～]でます",
+                "vietsub": "ra, đi ra [tiền thừa ~]"
+            },
+            {
+                "katarana": "[とけいが～] うごきます",
+                "vietsub": "chuyển động, chạy [đồng hồ ~]"
+            },
+            {
+                "katarana": "[みちを～]あるきます",
+                "vietsub": "đi bộ [trên đường]"
+            },
+            {
+                "katarana": "[はしを～]わたります",
+                "vietsub": "qua, đi qua [cầu]"
+            },
+            {
+                "katarana": "[くるまに～]きを　つけます",
+                "vietsub": "chú ý, cẩn thận [với ô-tô]"
+            },
+            { "katarana": "ひっこしします", "vietsub": "chuyển nhà" },
+            { "katarana": "でんきや", "vietsub": "cửa hàng đồ điện" },
+            { "katarana": "～や", "vietsub": "cửa hàng ~" },
+            { "katarana": "サイズ", "vietsub": "cỡ, kích thước" },
+            { "katarana": "おと", "vietsub": "âm thanh" },
+            { "katarana": "きかい", "vietsub": "máy, máy móc" },
+            { "katarana": "つまみ", "vietsub": "núm vặn" },
+            { "katarana": "こしょう", "vietsub": "hỏng (~します：bị hỏng)" },
+            { "katarana": "みち", "vietsub": "đường" },
+            { "katarana": "こうさてん", "vietsub": "ngã tư" },
+            { "katarana": "しんごう", "vietsub": "đèn tín hiệu" },
+            { "katarana": "かど", "vietsub": "góc" },
+            { "katarana": "はし", "vietsub": "đũa" },
+            { "katarana": "ちゅうしゃじょう", "vietsub": "bãi đỗ xe" },
+            { "katarana": "―め", "vietsub": "thứ - , số - (biểu thị thứ tự)" },
+            { "katarana": "[お]しょうがつ", "vietsub": "Tết (Dương lịch)" },
+            {
+                "katarana": "ごちそうさま[でした]。",
+                "vietsub": "Xin cám ơn anh/chị đã đãi tôi bữa cơm."
+            },
+            { "katarana": "たてもの", "vietsub": "tòa nhà" },
+            {
+                "katarana": "がいこくじんとうろくしょう",
+                "vietsub": "thẻ đăng ký người nước ngoài, "
+            },
+            {
+                "katarana": "しょうとくたいし",
+                "vietsub": "Thái tử Shotoku (574 – 622)"
+            },
+            { "katarana": "ほうりゅうじ", "vietsub": "Chùa Horyu-ji " },
+            {
+                "katarana": "げんきちゃ",
+                "vietsub": "tên một loại trà (giả tưởng)"
+            },
+            {
+                "katarana": "ほんだえき",
+                "vietsub": "tên một nhà ga (giả tưởng)"
+            },
+            {
+                "katarana": "としょかんまえ",
+                "vietsub": "tên một bến xe buýt (giả tưởng"
+            }
+        ]
+    },
+    {
+        "bai": "Bài 24",
+        "data": [
+            { "katarana": "くれます", "vietsub": "cho, tặng (tôi)" },
+            { "katarana": "つれていきます", "vietsub": "dẫn đi" },
+            { "katarana": "つれてきます", "vietsub": "dẫn đến" },
+            {
+                "katarana": "[ひとを～]おくります",
+                "vietsub": "đưa đi, đưa đến, tiễn [một ai đó]"
+            },
+            { "katarana": "しょうかいします", "vietsub": "giới thiệu" },
+            {
+                "katarana": "あんないします",
+                "vietsub": "hướng dẫn, giới thiệu, dẫn đường"
+            },
+            {
+                "katarana": "せつめいします",
+                "vietsub": "giải thích, trình bày"
+            },
+            { "katarana": "[コーヒーを～]いれます", "vietsub": "pha [cà-phê]" },
+            {
+                "katarana": "おじいさん／おじいちゃん",
+                "vietsub": "ông nội, ông ngoại, ông"
+            },
+            {
+                "katarana": "おばあさん／おばあちゃん",
+                "vietsub": "bà nội, bà ngoại, bà"
+            },
+            {
+                "katarana": "じゅんび",
+                "vietsub": "chuẩn bị [～します:chuẩn bị]"
+            },
+            { "katarana": "いみ", "vietsub": "ý nghĩa" },
+            { "katarana": "[お]かし", "vietsub": "bánh kẹo" },
+            { "katarana": "ぜんぶ", "vietsub": "toàn bộ, tất cả" },
+            { "katarana": "じぶんで", "vietsub": "tự (mình)" },
+            { "katarana": "ほかに", "vietsub": "ngoài ra, bên cạnh đó" },
+            {
+                "katarana": "ワゴンしゃ",
+                "vietsub": "xe ô-tô kiểu Wagon (có thùng đóng kín)"
+            },
+            { "katarana": "「お」べんとう", "vietsub": "cơm hộp" },
+            { "katarana": "ははのひ", "vietsub": "ngày Mẹ" }
+        ]
+    },
+    {
+        "bai": "Bài 25",
+        "data": [
+            { "katarana": "かんがえます", "vietsub": "nghĩ, suy nghĩ" },
+            { "katarana": "[えきに～] つきます", "vietsub": "đến [ga]" },
+            { "katarana": "りゅうがくします", "vietsub": "du học" },
+            { "katarana": "[としを～]とります", "vietsub": "thêm [tuổi]" },
+            { "katarana": "いなか", "vietsub": "quê, nông thôn" },
+            { "katarana": "たいしかん", "vietsub": "đại sứ quán" },
+            { "katarana": "グループ", "vietsub": " nhóm, đoàn" },
+            { "katarana": "チャンス", "vietsub": "cơ hội" },
+            {
+                "katarana": "おく",
+                "vietsub": "bên trong cùng, phía sâu bên trong"
+            },
+            { "katarana": "もし[～たら]", "vietsub": "nếu [~ thì]" },
+            {
+                "katarana": "いくら[～ても]",
+                "vietsub": "cho dù, thế nào [~ đi nữa]"
+            },
+            {
+                "katarana": "てんきん",
+                "vietsub": "việc chuyển địa điểm làm việc"
+            },
+            { "katarana": "こと", "vietsub": "việc (~の　こと: việc ~)" },
+            {
+                "katarana": "いっぱいのみましょう",
+                "vietsub": "Chúng ta cùng uống nhé."
+            },
+            {
+                "katarana": "「いろいろおせわになりました",
+                "vietsub": "Anh/chị đã giúp tôi (nhiều)."
+            },
+            { "katarana": "がんばります", "vietsub": "cố, cố gắng" },
+            {
+                "katarana": "どうぞおげんきで",
+                "vietsub": "Chúc anh/chị mạnh khỏe. "
+            }
+        ]
+    }
+]

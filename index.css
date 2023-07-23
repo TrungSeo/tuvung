@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fefce8;
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+}
+body #Main {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+body #Main .context {
+  padding: 48px 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body #Main .context h1 {
+  font-size: 32px;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+}
+body #Main .context h2, body #Main .context h3 {
+  font-style: italic;
+  opacity: 0;
+}
+body #Main .btnEvent {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+body #Main .btnEvent .btn {
+  min-width: 48px;
+  padding: 10px;
+  text-align: center;
+  transition: 0.5s;
+  cursor: pointer;
+}
+body #Main .btnEvent .btn.repeat {
+  background-color: #22d3ee;
+}
+body #Main .btnEvent .btn.pause {
+  background-color: #f87171;
+}
+body #Main .btnEvent .btn:hover {
+  background-color: #333;
+  color: #Fff;
+}
+body #Main .counter {
+  font-size: 32px;
+}
+body #Main footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}/*# sourceMappingURL=index.css.map */
