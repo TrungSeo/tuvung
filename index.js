@@ -54,24 +54,24 @@ APP.start();
 
 async function getJSON(baiStart, baiEnd) {
         const response = await fetch("http://japan.truvn.com/tuvung/list.json", {
-    method: 'GET',
-    headers: {
-        'Accept': 'application/json',
-    },
-});
+            method: 'GET',
+            headers: {
+                'Accept': 'application/json',
+            },
+        });
         const data = await response.json();
 
-                console.log(data)
+        console.log(data)
             
-                let rand = Math.floor(Math.random() * (baiEnd + 1 - baiStart)) + baiStart;
+        let rand = Math.floor(Math.random() * (baiEnd + 1 - baiStart)) + baiStart;
             
-                let randContex = Math.floor(Math.random() * data[rand - 1].data.length);
+        let randContex = Math.floor(Math.random() * data[rand - 1].data.length);
             
-                let katarana = data[rand - 1].data[randContex].katarana;
-                let sub = data[rand - 1].data[randContex].vietsub;
-                let bai = data[rand - 1].bai;
+        let katarana = data[rand - 1].data[randContex].katarana;
+        let sub = data[rand - 1].data[randContex].vietsub;
+        let bai = data[rand - 1].bai;
             
-                APP.view(bai, katarana, sub);
+        APP.view(bai, katarana, sub);
     
 }
 function bottom() {
